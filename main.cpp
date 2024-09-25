@@ -2,8 +2,8 @@
 #include "DE.cpp"
 const int LimStackSize = 4096;
 const int LimSize = 1024;
-const int NCECRuns = 51;
-const int MaxFuncs = 29;
+const int NCECRuns = 1;
+const int MaxFuncs = 9;
 const int NIndsGlobal = 112;
 const unsigned PerfGlobal = NCECRuns*MaxFuncs*1 + 4 + 1; //MaxFuncs*NCECRuns*1=nrows + 4 + NInds*2 //+ NIndsGlobal*2
 double ResultsBuffer[PerfGlobal];
@@ -8062,11 +8062,27 @@ void PushGP::FitCalcPopBasedCEC(int index)
             break;
         }
     }*/
+    sprintf(path_cec,"%s","input_data_17");
     int MaxNFEUsed = NFEmax*LimRuns*LimFunc;
     for(int run=0;run!=LimRuns;run++)
     {
-        for(func_num=1;func_num!=1+LimFunc;func_num++)
+        int func_index = 1;
+        ofstream foutTraj("Trajectories.txt");
+        for(func_index=1;func_index!=1+LimFunc;func_index++)
         {
+            func_num = func_index;
+            if(func_index > 1)
+                func_num = func_index + 1;
+
+            //cout<<func_num<<endl;
+            //////////////////////
+
+            double* xopt = new double[GNVars];
+            fopt = GetOptimum(func_num,xopt);
+            delete xopt;
+
+            //////////////////////
+
             int popsize = GlobalPopSizeMult*GNVars;//(IntRandom2(6)+5)*GNVars; //5*GNVars; //
             //maxRandomInt = popsize;
             double** Pop = new double*[popsize];
@@ -8091,8 +8107,10 @@ void PushGP::FitCalcPopBasedCEC(int index)
                 for(int d=0;d!=GNVars;d++)
                 {
                     tmp2[d] = (Pop[i][d] - CEC_Shifts[d])/CEC_Streches[d];
+                    foutTraj<<tmp2[d]<<"\t";
                 }
                 Fit[i] = CEC17(tmp2);
+                foutTraj<<Fit[i]<<"\n";
                 TotalNFEUsed++;
                 fbest = min(fbest,Fit[i]);
             }
@@ -8203,8 +8221,10 @@ void PushGP::FitCalcPopBasedCEC(int index)
                             for(int d=0;d!=GNVars;d++)
                             {
                                 tmp2[d] = (Inters[0].vectorStack[Inters[0].vectorSize-1][d] - CEC_Shifts[d])/CEC_Streches[d];
+                                //foutTraj<<tmp2[d]<<"\t";
                             }
                             tempfit = CEC17(tmp2);
+                            //foutTraj<<tempfit<<"\n";
                             TotalNFEUsed++;
                             if(tempfit < Fit[i])
                             {
@@ -8214,6 +8234,11 @@ void PushGP::FitCalcPopBasedCEC(int index)
                                     Pop[i][j] = Inters[0].vectorStack[Inters[0].vectorSize-1][j];
                                 }
                             }
+                            for(int j=0;j!=GNVars;j++)
+                            {
+                                foutTraj<<Pop[i][j]<<"\t";
+                            }
+                            foutTraj<<Fit[i]<<"\n";
                             fbest = min(fbest,tempfit);
                         }
                         /*for(int k=0;k!=popsize;k++)
@@ -10765,8 +10790,8 @@ int main()
         tempVector = new double[GNVars];
         PushGP newGP(1);
         newGP.counterlimit = 300;
-        NFEmax = 2500;
-        GenerateProblem17(GNVars);
+        NFEmax = 400;
+        //GenerateProblem17(GNVars);
         for(int i=0;i!=GNVars;i++)
         {
             CEC_Shifts[i] = 0;
@@ -10784,7 +10809,7 @@ int main()
         //for(int run2 = RunsStart[world_rank];run2!=RunsEnd[world_rank];run2++)
         //for(int IR=100;IR<101;IR+=16)
         //for(int IR=64;IR<65;IR+=16)
-        for(r_file=21;r_file!=22;r_file++)
+        for(r_file=95;r_file!=96;r_file++)
         //for(int r_file = RunsStart[world_rank];r_file!=RunsEnd[world_rank];r_file++)
         {
             //for(int PS=2;PS<32;PS+=4)
@@ -10798,8 +10823,8 @@ int main()
                     GlobalPopSizeMult = PS;
                     //cout<<"Run "<<run2<<endl;
                     //sprintf(buffer,"/home/mpiscil/cloud/Res_FastPushGP_24/run%d/Results_prog_R%d.txt",r_file,run2);
-                    //sprintf(buffer,"/home/mpiscil/cloud/Res_FastPushGP_24/run36_(100000k)/Results_prog2_R%d.txt",r_file);
-                    sprintf(buffer,"/home/mpiscil/cloud/Res_FastPushGP_24/run36_(100000k)/Results_prog2_R%d_simplified.txt",r_file);
+                    sprintf(buffer,"/home/mpiscil/cloud/Res_FastPushGP_24/run37_(100000k)/Results_prog2_R%d.txt",r_file);
+                    //sprintf(buffer,"/home/mpiscil/cloud/Res_FastPushGP_24/run37_(100000k)/Results_prog2_R%d.txt",r_file);
                     string filename = buffer;
                     //sprintf(buffer,"/home/mpiscil/cloud/Res_FastPushGP_24/run%d/FinalTest/perf_R%d_D%d_NFE%d.txt",r_file,run2,GNVars,NFEmax);
 

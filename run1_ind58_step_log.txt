@@ -1,0 +1,792 @@
+Iteration 0 
+Bool stack: 
+Int stack:  0  20  2 
+Float stack:  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  vector.yank  bool.not  1609.013624  exec.s  name.yankdup  0.487436  exec.s  int.-  int.rand  exec.define  int.rot  int.swap  vector.evalfunc  vector.yankdup  int.dup  exec.yankdup  float.dup  float.exp  vector.swap  int.rand  0.660344  float.cos  int.max  false  bool.xor  float.sin  name.shove  float.sin  float.ln  bool.or  vector.yank  bool.pop  int.min  int.*  int.abs  int.<  float./  exec.dup  vector.yankdup  float.stackdepth  vector.between  bool.fromint  vector.dim+  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <32.852959,28.993631> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 1 
+Bool stack: 
+Int stack:  20  2 
+Float stack:  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  bool.not  1609.013624  exec.s  name.yankdup  0.487436  exec.s  int.-  int.rand  exec.define  int.rot  int.swap  vector.evalfunc  vector.yankdup  int.dup  exec.yankdup  float.dup  float.exp  vector.swap  int.rand  0.660344  float.cos  int.max  false  bool.xor  float.sin  name.shove  float.sin  float.ln  bool.or  vector.yank  bool.pop  int.min  int.*  int.abs  int.<  float./  exec.dup  vector.yankdup  float.stackdepth  vector.between  bool.fromint  vector.dim+  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <32.852959,28.993631> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 2 
+Bool stack: 
+Int stack:  20  2 
+Float stack:  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  1609.013624  exec.s  name.yankdup  0.487436  exec.s  int.-  int.rand  exec.define  int.rot  int.swap  vector.evalfunc  vector.yankdup  int.dup  exec.yankdup  float.dup  float.exp  vector.swap  int.rand  0.660344  float.cos  int.max  false  bool.xor  float.sin  name.shove  float.sin  float.ln  bool.or  vector.yank  bool.pop  int.min  int.*  int.abs  int.<  float./  exec.dup  vector.yankdup  float.stackdepth  vector.between  bool.fromint  vector.dim+  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <32.852959,28.993631> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 3 
+Bool stack: 
+Int stack:  20  2 
+Float stack:  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  exec.s  name.yankdup  0.487436  exec.s  int.-  int.rand  exec.define  int.rot  int.swap  vector.evalfunc  vector.yankdup  int.dup  exec.yankdup  float.dup  float.exp  vector.swap  int.rand  0.660344  float.cos  int.max  false  bool.xor  float.sin  name.shove  float.sin  float.ln  bool.or  vector.yank  bool.pop  int.min  int.*  int.abs  int.<  float./  exec.dup  vector.yankdup  float.stackdepth  vector.between  bool.fromint  vector.dim+  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <32.852959,28.993631> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 4 
+Bool stack: 
+Int stack:  20  2 
+Float stack:  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  name.yankdup  exec.s  (  0.487436  exec.s  )  int.-  int.rand  exec.define  int.rot  int.swap  vector.evalfunc  vector.yankdup  int.dup  exec.yankdup  float.dup  float.exp  vector.swap  int.rand  0.660344  float.cos  int.max  false  bool.xor  float.sin  name.shove  float.sin  float.ln  bool.or  vector.yank  bool.pop  int.min  int.*  int.abs  int.<  float./  exec.dup  vector.yankdup  float.stackdepth  vector.between  bool.fromint  vector.dim+  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <32.852959,28.993631> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 5 
+Bool stack: 
+Int stack:  20  2 
+Float stack:  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  exec.s  (  0.487436  exec.s  )  int.-  int.rand  exec.define  int.rot  int.swap  vector.evalfunc  vector.yankdup  int.dup  exec.yankdup  float.dup  float.exp  vector.swap  int.rand  0.660344  float.cos  int.max  false  bool.xor  float.sin  name.shove  float.sin  float.ln  bool.or  vector.yank  bool.pop  int.min  int.*  int.abs  int.<  float./  exec.dup  vector.yankdup  float.stackdepth  vector.between  bool.fromint  vector.dim+  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <32.852959,28.993631> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 6 
+Bool stack: 
+Int stack:  20  2 
+Float stack:  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  (  0.487436  exec.s  )  int.rand  (  int.-  int.rand  )  exec.define  int.rot  int.swap  vector.evalfunc  vector.yankdup  int.dup  exec.yankdup  float.dup  float.exp  vector.swap  int.rand  0.660344  float.cos  int.max  false  bool.xor  float.sin  name.shove  float.sin  float.ln  bool.or  vector.yank  bool.pop  int.min  int.*  int.abs  int.<  float./  exec.dup  vector.yankdup  float.stackdepth  vector.between  bool.fromint  vector.dim+  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <32.852959,28.993631> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 7 
+Bool stack: 
+Int stack:  20  2 
+Float stack:  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  0.487436  exec.s  int.rand  (  int.-  int.rand  )  exec.define  int.rot  int.swap  vector.evalfunc  vector.yankdup  int.dup  exec.yankdup  float.dup  float.exp  vector.swap  int.rand  0.660344  float.cos  int.max  false  bool.xor  float.sin  name.shove  float.sin  float.ln  bool.or  vector.yank  bool.pop  int.min  int.*  int.abs  int.<  float./  exec.dup  vector.yankdup  float.stackdepth  vector.between  bool.fromint  vector.dim+  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <32.852959,28.993631> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 8 
+Bool stack: 
+Int stack:  20  2 
+Float stack:  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  exec.s  int.rand  (  int.-  int.rand  )  exec.define  int.rot  int.swap  vector.evalfunc  vector.yankdup  int.dup  exec.yankdup  float.dup  float.exp  vector.swap  int.rand  0.660344  float.cos  int.max  false  bool.xor  float.sin  name.shove  float.sin  float.ln  bool.or  vector.yank  bool.pop  int.min  int.*  int.abs  int.<  float./  exec.dup  vector.yankdup  float.stackdepth  vector.between  bool.fromint  vector.dim+  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <32.852959,28.993631> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 9 
+Bool stack: 
+Int stack:  20  2 
+Float stack:  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  int.rand  exec.define  (  (  int.-  int.rand  )  exec.define  )  int.rot  int.swap  vector.evalfunc  vector.yankdup  int.dup  exec.yankdup  float.dup  float.exp  vector.swap  int.rand  0.660344  float.cos  int.max  false  bool.xor  float.sin  name.shove  float.sin  float.ln  bool.or  vector.yank  bool.pop  int.min  int.*  int.abs  int.<  float./  exec.dup  vector.yankdup  float.stackdepth  vector.between  bool.fromint  vector.dim+  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <32.852959,28.993631> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 10 
+Bool stack: 
+Int stack:  32  20  2 
+Float stack:  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  exec.define  (  (  int.-  int.rand  )  exec.define  )  int.rot  int.swap  vector.evalfunc  vector.yankdup  int.dup  exec.yankdup  float.dup  float.exp  vector.swap  int.rand  0.660344  float.cos  int.max  false  bool.xor  float.sin  name.shove  float.sin  float.ln  bool.or  vector.yank  bool.pop  int.min  int.*  int.abs  int.<  float./  exec.dup  vector.yankdup  float.stackdepth  vector.between  bool.fromint  vector.dim+  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <32.852959,28.993631> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 11 
+Bool stack: 
+Int stack:  32  20  2 
+Float stack:  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  (  (  int.-  int.rand  )  exec.define  )  int.rot  int.swap  vector.evalfunc  vector.yankdup  int.dup  exec.yankdup  float.dup  float.exp  vector.swap  int.rand  0.660344  float.cos  int.max  false  bool.xor  float.sin  name.shove  float.sin  float.ln  bool.or  vector.yank  bool.pop  int.min  int.*  int.abs  int.<  float./  exec.dup  vector.yankdup  float.stackdepth  vector.between  bool.fromint  vector.dim+  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <32.852959,28.993631> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 12 
+Bool stack: 
+Int stack:  32  20  2 
+Float stack:  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  (  int.-  int.rand  )  exec.define  int.rot  int.swap  vector.evalfunc  vector.yankdup  int.dup  exec.yankdup  float.dup  float.exp  vector.swap  int.rand  0.660344  float.cos  int.max  false  bool.xor  float.sin  name.shove  float.sin  float.ln  bool.or  vector.yank  bool.pop  int.min  int.*  int.abs  int.<  float./  exec.dup  vector.yankdup  float.stackdepth  vector.between  bool.fromint  vector.dim+  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <32.852959,28.993631> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 13 
+Bool stack: 
+Int stack:  32  20  2 
+Float stack:  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  int.-  int.rand  exec.define  int.rot  int.swap  vector.evalfunc  vector.yankdup  int.dup  exec.yankdup  float.dup  float.exp  vector.swap  int.rand  0.660344  float.cos  int.max  false  bool.xor  float.sin  name.shove  float.sin  float.ln  bool.or  vector.yank  bool.pop  int.min  int.*  int.abs  int.<  float./  exec.dup  vector.yankdup  float.stackdepth  vector.between  bool.fromint  vector.dim+  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <32.852959,28.993631> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 14 
+Bool stack: 
+Int stack:  -12  2 
+Float stack:  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  int.rand  exec.define  int.rot  int.swap  vector.evalfunc  vector.yankdup  int.dup  exec.yankdup  float.dup  float.exp  vector.swap  int.rand  0.660344  float.cos  int.max  false  bool.xor  float.sin  name.shove  float.sin  float.ln  bool.or  vector.yank  bool.pop  int.min  int.*  int.abs  int.<  float./  exec.dup  vector.yankdup  float.stackdepth  vector.between  bool.fromint  vector.dim+  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <32.852959,28.993631> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 15 
+Bool stack: 
+Int stack:  61  -12  2 
+Float stack:  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  exec.define  int.rot  int.swap  vector.evalfunc  vector.yankdup  int.dup  exec.yankdup  float.dup  float.exp  vector.swap  int.rand  0.660344  float.cos  int.max  false  bool.xor  float.sin  name.shove  float.sin  float.ln  bool.or  vector.yank  bool.pop  int.min  int.*  int.abs  int.<  float./  exec.dup  vector.yankdup  float.stackdepth  vector.between  bool.fromint  vector.dim+  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <32.852959,28.993631> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 16 
+Bool stack: 
+Int stack:  61  -12  2 
+Float stack:  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  int.rot  int.swap  vector.evalfunc  vector.yankdup  int.dup  exec.yankdup  float.dup  float.exp  vector.swap  int.rand  0.660344  float.cos  int.max  false  bool.xor  float.sin  name.shove  float.sin  float.ln  bool.or  vector.yank  bool.pop  int.min  int.*  int.abs  int.<  float./  exec.dup  vector.yankdup  float.stackdepth  vector.between  bool.fromint  vector.dim+  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <32.852959,28.993631> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 17 
+Bool stack: 
+Int stack:  2  61  -12 
+Float stack:  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  int.swap  vector.evalfunc  vector.yankdup  int.dup  exec.yankdup  float.dup  float.exp  vector.swap  int.rand  0.660344  float.cos  int.max  false  bool.xor  float.sin  name.shove  float.sin  float.ln  bool.or  vector.yank  bool.pop  int.min  int.*  int.abs  int.<  float./  exec.dup  vector.yankdup  float.stackdepth  vector.between  bool.fromint  vector.dim+  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <32.852959,28.993631> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 18 
+Bool stack: 
+Int stack:  61  1  -12 
+Float stack:  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  vector.evalfunc  vector.yankdup  int.dup  exec.yankdup  float.dup  float.exp  vector.swap  int.rand  0.660344  float.cos  int.max  false  bool.xor  float.sin  name.shove  float.sin  float.ln  bool.or  vector.yank  bool.pop  int.min  int.*  int.abs  int.<  float./  exec.dup  vector.yankdup  float.stackdepth  vector.between  bool.fromint  vector.dim+  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <32.852959,28.993631> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 19 
+Bool stack: 
+Int stack:  61  1  -12 
+Float stack:  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  vector.yankdup  int.dup  exec.yankdup  float.dup  float.exp  vector.swap  int.rand  0.660344  float.cos  int.max  false  bool.xor  float.sin  name.shove  float.sin  float.ln  bool.or  vector.yank  bool.pop  int.min  int.*  int.abs  int.<  float./  exec.dup  vector.yankdup  float.stackdepth  vector.between  bool.fromint  vector.dim+  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <32.852959,28.993631> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 20 
+Bool stack: 
+Int stack:  1  -12 
+Float stack:  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  int.dup  exec.yankdup  float.dup  float.exp  vector.swap  int.rand  0.660344  float.cos  int.max  false  bool.xor  float.sin  name.shove  float.sin  float.ln  bool.or  vector.yank  bool.pop  int.min  int.*  int.abs  int.<  float./  exec.dup  vector.yankdup  float.stackdepth  vector.between  bool.fromint  vector.dim+  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <11.644178,29.528462> <32.852959,28.993631> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 21 
+Bool stack: 
+Int stack:  1  1  -12 
+Float stack:  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  exec.yankdup  float.dup  float.exp  vector.swap  int.rand  0.660344  float.cos  int.max  false  bool.xor  float.sin  name.shove  float.sin  float.ln  bool.or  vector.yank  bool.pop  int.min  int.*  int.abs  int.<  float./  exec.dup  vector.yankdup  float.stackdepth  vector.between  bool.fromint  vector.dim+  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <11.644178,29.528462> <32.852959,28.993631> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 22 
+Bool stack: 
+Int stack:  1  -12 
+Float stack:  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  float.dup  float.dup  float.exp  vector.swap  int.rand  0.660344  float.cos  int.max  false  bool.xor  float.sin  name.shove  float.sin  float.ln  bool.or  vector.yank  bool.pop  int.min  int.*  int.abs  int.<  float./  exec.dup  vector.yankdup  float.stackdepth  vector.between  bool.fromint  vector.dim+  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <11.644178,29.528462> <32.852959,28.993631> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 23 
+Bool stack: 
+Int stack:  1  -12 
+Float stack:  0.487436  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  float.dup  float.exp  vector.swap  int.rand  0.660344  float.cos  int.max  false  bool.xor  float.sin  name.shove  float.sin  float.ln  bool.or  vector.yank  bool.pop  int.min  int.*  int.abs  int.<  float./  exec.dup  vector.yankdup  float.stackdepth  vector.between  bool.fromint  vector.dim+  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <11.644178,29.528462> <32.852959,28.993631> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 24 
+Bool stack: 
+Int stack:  1  -12 
+Float stack:  0.487436  0.487436  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  float.exp  vector.swap  int.rand  0.660344  float.cos  int.max  false  bool.xor  float.sin  name.shove  float.sin  float.ln  bool.or  vector.yank  bool.pop  int.min  int.*  int.abs  int.<  float./  exec.dup  vector.yankdup  float.stackdepth  vector.between  bool.fromint  vector.dim+  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <11.644178,29.528462> <32.852959,28.993631> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 25 
+Bool stack: 
+Int stack:  1  -12 
+Float stack:  1.628136  0.487436  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  vector.swap  int.rand  0.660344  float.cos  int.max  false  bool.xor  float.sin  name.shove  float.sin  float.ln  bool.or  vector.yank  bool.pop  int.min  int.*  int.abs  int.<  float./  exec.dup  vector.yankdup  float.stackdepth  vector.between  bool.fromint  vector.dim+  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <11.644178,29.528462> <32.852959,28.993631> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 26 
+Bool stack: 
+Int stack:  1  -12 
+Float stack:  1.628136  0.487436  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  int.rand  0.660344  float.cos  int.max  false  bool.xor  float.sin  name.shove  float.sin  float.ln  bool.or  vector.yank  bool.pop  int.min  int.*  int.abs  int.<  float./  exec.dup  vector.yankdup  float.stackdepth  vector.between  bool.fromint  vector.dim+  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <32.852959,28.993631> <11.644178,29.528462> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 27 
+Bool stack: 
+Int stack:  0  1  -12 
+Float stack:  1.628136  0.487436  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  0.660344  float.cos  int.max  false  bool.xor  float.sin  name.shove  float.sin  float.ln  bool.or  vector.yank  bool.pop  int.min  int.*  int.abs  int.<  float./  exec.dup  vector.yankdup  float.stackdepth  vector.between  bool.fromint  vector.dim+  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <32.852959,28.993631> <11.644178,29.528462> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 28 
+Bool stack: 
+Int stack:  0  1  -12 
+Float stack:  0.660344  1.628136  0.487436  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  float.cos  int.max  false  bool.xor  float.sin  name.shove  float.sin  float.ln  bool.or  vector.yank  bool.pop  int.min  int.*  int.abs  int.<  float./  exec.dup  vector.yankdup  float.stackdepth  vector.between  bool.fromint  vector.dim+  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <32.852959,28.993631> <11.644178,29.528462> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 29 
+Bool stack: 
+Int stack:  0  1  -12 
+Float stack:  0.789781  1.628136  0.487436  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  int.max  false  bool.xor  float.sin  name.shove  float.sin  float.ln  bool.or  vector.yank  bool.pop  int.min  int.*  int.abs  int.<  float./  exec.dup  vector.yankdup  float.stackdepth  vector.between  bool.fromint  vector.dim+  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <32.852959,28.993631> <11.644178,29.528462> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 30 
+Bool stack: 
+Int stack:  1  -12 
+Float stack:  0.789781  1.628136  0.487436  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  false  bool.xor  float.sin  name.shove  float.sin  float.ln  bool.or  vector.yank  bool.pop  int.min  int.*  int.abs  int.<  float./  exec.dup  vector.yankdup  float.stackdepth  vector.between  bool.fromint  vector.dim+  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <32.852959,28.993631> <11.644178,29.528462> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 31 
+Bool stack:  false 
+Int stack:  1  -12 
+Float stack:  0.789781  1.628136  0.487436  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  bool.xor  float.sin  name.shove  float.sin  float.ln  bool.or  vector.yank  bool.pop  int.min  int.*  int.abs  int.<  float./  exec.dup  vector.yankdup  float.stackdepth  vector.between  bool.fromint  vector.dim+  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <32.852959,28.993631> <11.644178,29.528462> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 32 
+Bool stack:  false 
+Int stack:  1  -12 
+Float stack:  0.789781  1.628136  0.487436  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  float.sin  name.shove  float.sin  float.ln  bool.or  vector.yank  bool.pop  int.min  int.*  int.abs  int.<  float./  exec.dup  vector.yankdup  float.stackdepth  vector.between  bool.fromint  vector.dim+  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <32.852959,28.993631> <11.644178,29.528462> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 33 
+Bool stack:  false 
+Int stack:  1  -12 
+Float stack:  0.710199  1.628136  0.487436  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  name.shove  float.sin  float.ln  bool.or  vector.yank  bool.pop  int.min  int.*  int.abs  int.<  float./  exec.dup  vector.yankdup  float.stackdepth  vector.between  bool.fromint  vector.dim+  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <32.852959,28.993631> <11.644178,29.528462> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 34 
+Bool stack:  false 
+Int stack:  1  -12 
+Float stack:  0.710199  1.628136  0.487436  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  float.sin  float.ln  bool.or  vector.yank  bool.pop  int.min  int.*  int.abs  int.<  float./  exec.dup  vector.yankdup  float.stackdepth  vector.between  bool.fromint  vector.dim+  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <32.852959,28.993631> <11.644178,29.528462> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 35 
+Bool stack:  false 
+Int stack:  1  -12 
+Float stack:  0.651985  1.628136  0.487436  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  float.ln  bool.or  vector.yank  bool.pop  int.min  int.*  int.abs  int.<  float./  exec.dup  vector.yankdup  float.stackdepth  vector.between  bool.fromint  vector.dim+  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <32.852959,28.993631> <11.644178,29.528462> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 36 
+Bool stack:  false 
+Int stack:  1  -12 
+Float stack:  -0.427734  1.628136  0.487436  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  bool.or  vector.yank  bool.pop  int.min  int.*  int.abs  int.<  float./  exec.dup  vector.yankdup  float.stackdepth  vector.between  bool.fromint  vector.dim+  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <32.852959,28.993631> <11.644178,29.528462> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 37 
+Bool stack:  false 
+Int stack:  1  -12 
+Float stack:  -0.427734  1.628136  0.487436  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  vector.yank  bool.pop  int.min  int.*  int.abs  int.<  float./  exec.dup  vector.yankdup  float.stackdepth  vector.between  bool.fromint  vector.dim+  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <32.852959,28.993631> <11.644178,29.528462> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 38 
+Bool stack:  false 
+Int stack:  -12 
+Float stack:  -0.427734  1.628136  0.487436  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  bool.pop  int.min  int.*  int.abs  int.<  float./  exec.dup  vector.yankdup  float.stackdepth  vector.between  bool.fromint  vector.dim+  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <11.644178,29.528462> <32.852959,28.993631> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 39 
+Bool stack: 
+Int stack:  -12 
+Float stack:  -0.427734  1.628136  0.487436  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  int.min  int.*  int.abs  int.<  float./  exec.dup  vector.yankdup  float.stackdepth  vector.between  bool.fromint  vector.dim+  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <11.644178,29.528462> <32.852959,28.993631> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 40 
+Bool stack: 
+Int stack:  -12 
+Float stack:  -0.427734  1.628136  0.487436  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  int.*  int.abs  int.<  float./  exec.dup  vector.yankdup  float.stackdepth  vector.between  bool.fromint  vector.dim+  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <11.644178,29.528462> <32.852959,28.993631> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 41 
+Bool stack: 
+Int stack:  -12 
+Float stack:  -0.427734  1.628136  0.487436  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  int.abs  int.<  float./  exec.dup  vector.yankdup  float.stackdepth  vector.between  bool.fromint  vector.dim+  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <11.644178,29.528462> <32.852959,28.993631> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 42 
+Bool stack: 
+Int stack:  12 
+Float stack:  -0.427734  1.628136  0.487436  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  int.<  float./  exec.dup  vector.yankdup  float.stackdepth  vector.between  bool.fromint  vector.dim+  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <11.644178,29.528462> <32.852959,28.993631> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 43 
+Bool stack: 
+Int stack:  12 
+Float stack:  -0.427734  1.628136  0.487436  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  float./  exec.dup  vector.yankdup  float.stackdepth  vector.between  bool.fromint  vector.dim+  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <11.644178,29.528462> <32.852959,28.993631> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 44 
+Bool stack: 
+Int stack:  12 
+Float stack:  -3.806424  0.487436  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  exec.dup  vector.yankdup  float.stackdepth  vector.between  bool.fromint  vector.dim+  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <11.644178,29.528462> <32.852959,28.993631> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 45 
+Bool stack: 
+Int stack:  12 
+Float stack:  -3.806424  0.487436  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  vector.yankdup  vector.yankdup  float.stackdepth  vector.between  bool.fromint  vector.dim+  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <11.644178,29.528462> <32.852959,28.993631> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 46 
+Bool stack: 
+Int stack: 
+Float stack:  -3.806424  0.487436  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  vector.yankdup  float.stackdepth  vector.between  bool.fromint  vector.dim+  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-69.224488,5.632742> <11.644178,29.528462> <32.852959,28.993631> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 47 
+Bool stack: 
+Int stack: 
+Float stack:  -3.806424  0.487436  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  float.stackdepth  vector.between  bool.fromint  vector.dim+  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-69.224488,5.632742> <11.644178,29.528462> <32.852959,28.993631> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 48 
+Bool stack: 
+Int stack:  24 
+Float stack:  -3.806424  0.487436  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  vector.between  bool.fromint  vector.dim+  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-69.224488,5.632742> <11.644178,29.528462> <32.852959,28.993631> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 49 
+Bool stack: 
+Int stack:  24 
+Float stack:  0.487436  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  bool.fromint  vector.dim+  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-377.044889,-85.324490> <32.852959,28.993631> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 50 
+Bool stack:  true 
+Int stack: 
+Float stack:  0.487436  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  vector.dim+  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-377.044889,-85.324490> <32.852959,28.993631> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 51 
+Bool stack:  true 
+Int stack: 
+Float stack:  0.487436  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  bool.yankdup  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-377.044889,-85.324490> <32.852959,28.993631> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 52 
+Bool stack:  true 
+Int stack: 
+Float stack:  0.487436  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  float.rand01  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-377.044889,-85.324490> <32.852959,28.993631> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 53 
+Bool stack:  true 
+Int stack: 
+Float stack:  0.737099  0.487436  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  float.rand  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-377.044889,-85.324490> <32.852959,28.993631> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 54 
+Bool stack:  true 
+Int stack: 
+Float stack:  0.894641  0.737099  0.487436  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  float.<  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-377.044889,-85.324490> <32.852959,28.993631> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 55 
+Bool stack:  true  true 
+Int stack: 
+Float stack:  0.487436  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  float.cos  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-377.044889,-85.324490> <32.852959,28.993631> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 56 
+Bool stack:  true  true 
+Int stack: 
+Float stack:  0.883537  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  float.dup  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-377.044889,-85.324490> <32.852959,28.993631> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 57 
+Bool stack:  true  true 
+Int stack: 
+Float stack:  0.883537  0.883537  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  name.=  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-377.044889,-85.324490> <32.852959,28.993631> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 58 
+Bool stack:  true  true 
+Int stack: 
+Float stack:  0.883537  0.883537  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  vector.fromint  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-377.044889,-85.324490> <32.852959,28.993631> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 59 
+Bool stack:  true  true 
+Int stack: 
+Float stack:  0.883537  0.883537  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  vector.between  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-377.044889,-85.324490> <32.852959,28.993631> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 60 
+Bool stack:  true  true 
+Int stack: 
+Float stack:  0.883537  0.487436  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  float.log  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-14.885121,15.679759> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 61 
+Bool stack:  true  true 
+Int stack: 
+Float stack:  0.172312  1609.013624  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  float.log  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-14.885121,15.679759> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 62 
+Bool stack:  true  true 
+Int stack: 
+Float stack:  -0.238163  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  int.rand  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-14.885121,15.679759> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 63 
+Bool stack:  true  true 
+Int stack:  55 
+Float stack:  -0.238163  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  float.cos  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-14.885121,15.679759> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 64 
+Bool stack:  true  true 
+Int stack:  55 
+Float stack:  0.971773  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  int.abs  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-14.885121,15.679759> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 65 
+Bool stack:  true  true 
+Int stack:  55 
+Float stack:  0.971773  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  bool.stackdepth  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-14.885121,15.679759> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 66 
+Bool stack:  true  true 
+Int stack:  2  55 
+Float stack:  0.971773  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  exec.do*times  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-14.885121,15.679759> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 67 
+Bool stack:  true  true 
+Int stack:  55 
+Float stack:  0.971773  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  name.pop  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-14.885121,15.679759> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 68 
+Bool stack:  true  true 
+Int stack:  55 
+Float stack:  0.971773  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  name.pop  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-14.885121,15.679759> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 69 
+Bool stack:  true  true 
+Int stack:  55 
+Float stack:  0.971773  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  exec.yankdup  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-14.885121,15.679759> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 70 
+Bool stack:  true  true 
+Int stack: 
+Float stack:  0.971773  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  name.=  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-14.885121,15.679759> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 71 
+Bool stack:  true  true 
+Int stack: 
+Float stack:  0.971773  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  bool.yankdup  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-14.885121,15.679759> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 72 
+Bool stack:  true  true 
+Int stack: 
+Float stack:  0.971773  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  input.stackdepth  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-14.885121,15.679759> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 73 
+Bool stack:  true  true 
+Int stack:  2 
+Float stack:  0.971773  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  input.index  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-14.885121,15.679759> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 74 
+Bool stack:  true  true 
+Int stack:  2 
+Float stack:  0.971773  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  vector.min  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <100.000000,100.000000> <-14.885121,15.679759> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 75 
+Bool stack:  true  true 
+Int stack:  2 
+Float stack:  0.971773  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  int.=  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-14.885121,15.679759> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 76 
+Bool stack:  true  true 
+Int stack:  2 
+Float stack:  0.971773  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  input.inallrev  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-14.885121,15.679759> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 77 
+Bool stack:  true  true 
+Int stack:  2 
+Float stack:  0.971773  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  float.setrandmin  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: 
+Name stack: 
+Vector stack: <100.000000,100.000000> <-100.000000,-100.000000> <-14.885121,15.679759> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 78 
+Bool stack:  true  true 
+Int stack:  2 
+Float stack:  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  int.+  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: 
+Name stack: 
+Vector stack: <100.000000,100.000000> <-100.000000,-100.000000> <-14.885121,15.679759> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 79 
+Bool stack:  true  true 
+Int stack:  2 
+Float stack:  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  name.yank  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: 
+Name stack: 
+Vector stack: <100.000000,100.000000> <-100.000000,-100.000000> <-14.885121,15.679759> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 80 
+Bool stack:  true  true 
+Int stack:  2 
+Float stack:  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  vector.sum  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: 
+Name stack: 
+Vector stack: <100.000000,100.000000> <-100.000000,-100.000000> <-14.885121,15.679759> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 81 
+Bool stack:  true  true 
+Int stack:  2 
+Float stack:  200.000000  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  bool.swap  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: 
+Name stack: 
+Vector stack: <-100.000000,-100.000000> <-14.885121,15.679759> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 82 
+Bool stack:  true  true 
+Int stack:  2 
+Float stack:  200.000000  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  bool.swap  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: 
+Name stack: 
+Vector stack: <-100.000000,-100.000000> <-14.885121,15.679759> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 83 
+Bool stack:  true  true 
+Int stack:  2 
+Float stack:  200.000000  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  vector.max  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: 
+Name stack: 
+Vector stack: <-100.000000,-100.000000> <-14.885121,15.679759> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 84 
+Bool stack:  true  true 
+Int stack:  2 
+Float stack:  200.000000  1.594917e+10  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  float.log  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: 
+Name stack: 
+Vector stack: <-14.885121,15.679759> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 85 
+Bool stack:  true  true 
+Int stack:  2 
+Float stack:  0.225531  6.486777e+09  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  float.log  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: 
+Name stack: 
+Vector stack: <-14.885121,15.679759> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 86 
+Bool stack:  true  true 
+Int stack:  2 
+Float stack:  -0.065919  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack:  exec.flush  name.dup  vector.between  name.swap  float.swap  exec.yankdup  vector.between  vector.between  int.neg  name.=  name.=  name.yank  bool.or  float.rand01  exec.yank  int.min  name.yankdup  float.rand01  bool.fromint  exec.dup  float.cos  vector.dim*  int.min  float.shove  bool.or  name.= 
+Input stack: 
+Name stack: 
+Vector stack: <-14.885121,15.679759> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
+Iteration 87 
+Bool stack:  true  true 
+Int stack:  2 
+Float stack:  -0.065919  4.581283e+08  1.272750e+10  1.526237e+10  1.206709e+09  4.353668e+09  3.758692e+09  1.086258e+10  8.000426e+09  5.985632e+08  4.124432e+09  7.862958e+09  1.394161e+09  3.061126e+09  6.300250e+09  1.559978e+08  1.492838e+10  4.210504e+08  1.400367e+10 
+Exec stack: 
+Input stack: 
+Name stack: 
+Vector stack: <-14.885121,15.679759> <25.226088,-17.568542> <-61.395314,-44.441305> <17.621289,20.916039> <-48.794988,61.431225> <-46.278598,-36.466466> <-54.675666,1.237947> <12.781282,-33.133071> <78.620822,-14.924018> <19.785395,-5.500333> <40.810876,-85.460454> <-69.224488,5.632742> <0.174823,2.169143> <-85.448031,-16.632245> <17.211745,-41.575536> <72.318184,-39.277626> <14.186087,-86.960391> <-95.685838,80.299680> <51.537840,-94.417591> <11.644178,29.528462> 
+
