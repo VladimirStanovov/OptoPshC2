@@ -1,0 +1,558 @@
+Iteration 0 
+Bool stack: 
+Int stack:  0  12  2 
+Float stack:  9.790623e+09  3.986959e+09  1.487733e+09  1.071842e+09  3.683841e+09  1.648775e+08  1.053926e+08  4.711686e+07  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  vector.min  name.pop  exec.close  exec.rot  bool.yank  float.ln  int.dup  exec.close  exec.if  exec.rot  int.rand  float.swap  exec.swap  name.pop  vector.dim+  float.rand  float.ln  vector.frombool  vector.yank  float.max  bool.pop  name.yankdup  float.=  bool.rot  bool.yankdup  0.281272  float.min  name.randboundname  vector.yank  float.sin  vector.yank  float.pop  float.pow  )  float.pow  float.max  int.-  int.*  float.rand  exec.k  vector.dim*  int.dup  int.log  (  float.pow  63  exec.yankdup  name.rot  float.abs  bool.rot  bool.yankdup  name.rot  input.stackdepth  float.min  name.dup  name.quote  int.*  name.randboundname  name.dup  exec.close  exec.close  name.pop  name.randboundname  name.randboundname  int.swap  name.randboundname  name.yankdup  float.rand  int.rot  name.flush  exec.rot  exec.close  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-82.167982,92.917296> <-53.095141,71.992360> <75.731021,73.031407> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> <-50.520365,-32.975077> 
+
+Iteration 1 
+Bool stack: 
+Int stack:  0  12  2 
+Float stack:  9.790623e+09  3.986959e+09  1.487733e+09  1.071842e+09  3.683841e+09  1.648775e+08  1.053926e+08  4.711686e+07  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  name.pop  exec.close  exec.rot  bool.yank  float.ln  int.dup  exec.close  exec.if  exec.rot  int.rand  float.swap  exec.swap  name.pop  vector.dim+  float.rand  float.ln  vector.frombool  vector.yank  float.max  bool.pop  name.yankdup  float.=  bool.rot  bool.yankdup  0.281272  float.min  name.randboundname  vector.yank  float.sin  vector.yank  float.pop  float.pow  )  float.pow  float.max  int.-  int.*  float.rand  exec.k  vector.dim*  int.dup  int.log  (  float.pow  63  exec.yankdup  name.rot  float.abs  bool.rot  bool.yankdup  name.rot  input.stackdepth  float.min  name.dup  name.quote  int.*  name.randboundname  name.dup  exec.close  exec.close  name.pop  name.randboundname  name.randboundname  int.swap  name.randboundname  name.yankdup  float.rand  int.rot  name.flush  exec.rot  exec.close  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-82.167982,71.992360> <75.731021,73.031407> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> <-50.520365,-32.975077> 
+
+Iteration 2 
+Bool stack: 
+Int stack:  0  12  2 
+Float stack:  9.790623e+09  3.986959e+09  1.487733e+09  1.071842e+09  3.683841e+09  1.648775e+08  1.053926e+08  4.711686e+07  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  exec.close  exec.rot  bool.yank  float.ln  int.dup  exec.close  exec.if  exec.rot  int.rand  float.swap  exec.swap  name.pop  vector.dim+  float.rand  float.ln  vector.frombool  vector.yank  float.max  bool.pop  name.yankdup  float.=  bool.rot  bool.yankdup  0.281272  float.min  name.randboundname  vector.yank  float.sin  vector.yank  float.pop  float.pow  )  float.pow  float.max  int.-  int.*  float.rand  exec.k  vector.dim*  int.dup  int.log  (  float.pow  63  exec.yankdup  name.rot  float.abs  bool.rot  bool.yankdup  name.rot  input.stackdepth  float.min  name.dup  name.quote  int.*  name.randboundname  name.dup  exec.close  exec.close  name.pop  name.randboundname  name.randboundname  int.swap  name.randboundname  name.yankdup  float.rand  int.rot  name.flush  exec.rot  exec.close  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-82.167982,71.992360> <75.731021,73.031407> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> <-50.520365,-32.975077> 
+
+Iteration 3 
+Bool stack: 
+Int stack:  0  12  2 
+Float stack:  9.790623e+09  3.986959e+09  1.487733e+09  1.071842e+09  3.683841e+09  1.648775e+08  1.053926e+08  4.711686e+07  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  exec.rot  bool.yank  float.ln  int.dup  exec.close  exec.if  exec.rot  int.rand  float.swap  exec.swap  name.pop  vector.dim+  float.rand  float.ln  vector.frombool  vector.yank  float.max  bool.pop  name.yankdup  float.=  bool.rot  bool.yankdup  0.281272  float.min  name.randboundname  vector.yank  float.sin  vector.yank  float.pop  float.pow  )  float.pow  float.max  int.-  int.*  float.rand  exec.k  vector.dim*  int.dup  int.log  (  float.pow  63  exec.yankdup  name.rot  float.abs  bool.rot  bool.yankdup  name.rot  input.stackdepth  float.min  name.dup  name.quote  int.*  name.randboundname  name.dup  exec.close  exec.close  name.pop  name.randboundname  name.randboundname  int.swap  name.randboundname  name.yankdup  float.rand  int.rot  name.flush  exec.rot  exec.close  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-82.167982,71.992360> <75.731021,73.031407> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> <-50.520365,-32.975077> 
+
+Iteration 4 
+Bool stack: 
+Int stack:  0  12  2 
+Float stack:  9.790623e+09  3.986959e+09  1.487733e+09  1.071842e+09  3.683841e+09  1.648775e+08  1.053926e+08  4.711686e+07  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  bool.yank  float.ln  int.dup  exec.close  exec.if  exec.rot  int.rand  float.swap  exec.swap  name.pop  vector.dim+  float.rand  float.ln  vector.frombool  vector.yank  float.max  bool.pop  name.yankdup  float.=  bool.rot  bool.yankdup  0.281272  float.min  name.randboundname  vector.yank  float.sin  vector.yank  float.pop  float.pow  )  float.pow  float.max  int.-  int.*  float.rand  exec.k  vector.dim*  int.dup  int.log  (  float.pow  63  exec.yankdup  name.rot  float.abs  bool.rot  bool.yankdup  name.rot  input.stackdepth  float.min  name.dup  name.quote  int.*  name.randboundname  name.dup  exec.close  exec.close  name.pop  name.randboundname  name.randboundname  int.swap  name.randboundname  name.yankdup  float.rand  int.rot  name.flush  exec.rot  exec.close  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-82.167982,71.992360> <75.731021,73.031407> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> <-50.520365,-32.975077> 
+
+Iteration 5 
+Bool stack: 
+Int stack:  0  12  2 
+Float stack:  9.790623e+09  3.986959e+09  1.487733e+09  1.071842e+09  3.683841e+09  1.648775e+08  1.053926e+08  4.711686e+07  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  float.ln  int.dup  exec.close  exec.if  exec.rot  int.rand  float.swap  exec.swap  name.pop  vector.dim+  float.rand  float.ln  vector.frombool  vector.yank  float.max  bool.pop  name.yankdup  float.=  bool.rot  bool.yankdup  0.281272  float.min  name.randboundname  vector.yank  float.sin  vector.yank  float.pop  float.pow  )  float.pow  float.max  int.-  int.*  float.rand  exec.k  vector.dim*  int.dup  int.log  (  float.pow  63  exec.yankdup  name.rot  float.abs  bool.rot  bool.yankdup  name.rot  input.stackdepth  float.min  name.dup  name.quote  int.*  name.randboundname  name.dup  exec.close  exec.close  name.pop  name.randboundname  name.randboundname  int.swap  name.randboundname  name.yankdup  float.rand  int.rot  name.flush  exec.rot  exec.close  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-82.167982,71.992360> <75.731021,73.031407> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> <-50.520365,-32.975077> 
+
+Iteration 6 
+Bool stack: 
+Int stack:  0  12  2 
+Float stack:  23.004691  3.986959e+09  1.487733e+09  1.071842e+09  3.683841e+09  1.648775e+08  1.053926e+08  4.711686e+07  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  int.dup  exec.close  exec.if  exec.rot  int.rand  float.swap  exec.swap  name.pop  vector.dim+  float.rand  float.ln  vector.frombool  vector.yank  float.max  bool.pop  name.yankdup  float.=  bool.rot  bool.yankdup  0.281272  float.min  name.randboundname  vector.yank  float.sin  vector.yank  float.pop  float.pow  )  float.pow  float.max  int.-  int.*  float.rand  exec.k  vector.dim*  int.dup  int.log  (  float.pow  63  exec.yankdup  name.rot  float.abs  bool.rot  bool.yankdup  name.rot  input.stackdepth  float.min  name.dup  name.quote  int.*  name.randboundname  name.dup  exec.close  exec.close  name.pop  name.randboundname  name.randboundname  int.swap  name.randboundname  name.yankdup  float.rand  int.rot  name.flush  exec.rot  exec.close  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-82.167982,71.992360> <75.731021,73.031407> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> <-50.520365,-32.975077> 
+
+Iteration 7 
+Bool stack: 
+Int stack:  0  0  12  2 
+Float stack:  23.004691  3.986959e+09  1.487733e+09  1.071842e+09  3.683841e+09  1.648775e+08  1.053926e+08  4.711686e+07  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  exec.close  exec.if  exec.rot  int.rand  float.swap  exec.swap  name.pop  vector.dim+  float.rand  float.ln  vector.frombool  vector.yank  float.max  bool.pop  name.yankdup  float.=  bool.rot  bool.yankdup  0.281272  float.min  name.randboundname  vector.yank  float.sin  vector.yank  float.pop  float.pow  )  float.pow  float.max  int.-  int.*  float.rand  exec.k  vector.dim*  int.dup  int.log  (  float.pow  63  exec.yankdup  name.rot  float.abs  bool.rot  bool.yankdup  name.rot  input.stackdepth  float.min  name.dup  name.quote  int.*  name.randboundname  name.dup  exec.close  exec.close  name.pop  name.randboundname  name.randboundname  int.swap  name.randboundname  name.yankdup  float.rand  int.rot  name.flush  exec.rot  exec.close  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-82.167982,71.992360> <75.731021,73.031407> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> <-50.520365,-32.975077> 
+
+Iteration 8 
+Bool stack: 
+Int stack:  0  0  12  2 
+Float stack:  23.004691  3.986959e+09  1.487733e+09  1.071842e+09  3.683841e+09  1.648775e+08  1.053926e+08  4.711686e+07  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  exec.if  exec.rot  int.rand  float.swap  exec.swap  name.pop  vector.dim+  float.rand  float.ln  vector.frombool  vector.yank  float.max  bool.pop  name.yankdup  float.=  bool.rot  bool.yankdup  0.281272  float.min  name.randboundname  vector.yank  float.sin  vector.yank  float.pop  float.pow  )  float.pow  float.max  int.-  int.*  float.rand  exec.k  vector.dim*  int.dup  int.log  (  float.pow  63  exec.yankdup  name.rot  float.abs  bool.rot  bool.yankdup  name.rot  input.stackdepth  float.min  name.dup  name.quote  int.*  name.randboundname  name.dup  exec.close  exec.close  name.pop  name.randboundname  name.randboundname  int.swap  name.randboundname  name.yankdup  float.rand  int.rot  name.flush  exec.rot  exec.close  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-82.167982,71.992360> <75.731021,73.031407> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> <-50.520365,-32.975077> 
+
+Iteration 9 
+Bool stack: 
+Int stack:  0  0  12  2 
+Float stack:  23.004691  3.986959e+09  1.487733e+09  1.071842e+09  3.683841e+09  1.648775e+08  1.053926e+08  4.711686e+07  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  exec.rot  int.rand  float.swap  exec.swap  name.pop  vector.dim+  float.rand  float.ln  vector.frombool  vector.yank  float.max  bool.pop  name.yankdup  float.=  bool.rot  bool.yankdup  0.281272  float.min  name.randboundname  vector.yank  float.sin  vector.yank  float.pop  float.pow  )  float.pow  float.max  int.-  int.*  float.rand  exec.k  vector.dim*  int.dup  int.log  (  float.pow  63  exec.yankdup  name.rot  float.abs  bool.rot  bool.yankdup  name.rot  input.stackdepth  float.min  name.dup  name.quote  int.*  name.randboundname  name.dup  exec.close  exec.close  name.pop  name.randboundname  name.randboundname  int.swap  name.randboundname  name.yankdup  float.rand  int.rot  name.flush  exec.rot  exec.close  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-82.167982,71.992360> <75.731021,73.031407> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> <-50.520365,-32.975077> 
+
+Iteration 10 
+Bool stack: 
+Int stack:  0  0  12  2 
+Float stack:  23.004691  3.986959e+09  1.487733e+09  1.071842e+09  3.683841e+09  1.648775e+08  1.053926e+08  4.711686e+07  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  int.rand  float.swap  exec.swap  name.pop  vector.dim+  float.rand  float.ln  vector.frombool  vector.yank  float.max  bool.pop  name.yankdup  float.=  bool.rot  bool.yankdup  0.281272  float.min  name.randboundname  vector.yank  float.sin  vector.yank  float.pop  float.pow  )  float.pow  float.max  int.-  int.*  float.rand  exec.k  vector.dim*  int.dup  int.log  (  float.pow  63  exec.yankdup  name.rot  float.abs  bool.rot  bool.yankdup  name.rot  input.stackdepth  float.min  name.dup  name.quote  int.*  name.randboundname  name.dup  exec.close  exec.close  name.pop  name.randboundname  name.randboundname  int.swap  name.randboundname  name.yankdup  float.rand  int.rot  name.flush  exec.rot  exec.close  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-82.167982,71.992360> <75.731021,73.031407> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> <-50.520365,-32.975077> 
+
+Iteration 11 
+Bool stack: 
+Int stack:  62  0  0  12  2 
+Float stack:  23.004691  3.986959e+09  1.487733e+09  1.071842e+09  3.683841e+09  1.648775e+08  1.053926e+08  4.711686e+07  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  float.swap  exec.swap  name.pop  vector.dim+  float.rand  float.ln  vector.frombool  vector.yank  float.max  bool.pop  name.yankdup  float.=  bool.rot  bool.yankdup  0.281272  float.min  name.randboundname  vector.yank  float.sin  vector.yank  float.pop  float.pow  )  float.pow  float.max  int.-  int.*  float.rand  exec.k  vector.dim*  int.dup  int.log  (  float.pow  63  exec.yankdup  name.rot  float.abs  bool.rot  bool.yankdup  name.rot  input.stackdepth  float.min  name.dup  name.quote  int.*  name.randboundname  name.dup  exec.close  exec.close  name.pop  name.randboundname  name.randboundname  int.swap  name.randboundname  name.yankdup  float.rand  int.rot  name.flush  exec.rot  exec.close  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-82.167982,71.992360> <75.731021,73.031407> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> <-50.520365,-32.975077> 
+
+Iteration 12 
+Bool stack: 
+Int stack:  62  0  0  12  2 
+Float stack:  3.986959e+09  23.004691  1.487733e+09  1.071842e+09  3.683841e+09  1.648775e+08  1.053926e+08  4.711686e+07  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  exec.swap  name.pop  vector.dim+  float.rand  float.ln  vector.frombool  vector.yank  float.max  bool.pop  name.yankdup  float.=  bool.rot  bool.yankdup  0.281272  float.min  name.randboundname  vector.yank  float.sin  vector.yank  float.pop  float.pow  )  float.pow  float.max  int.-  int.*  float.rand  exec.k  vector.dim*  int.dup  int.log  (  float.pow  63  exec.yankdup  name.rot  float.abs  bool.rot  bool.yankdup  name.rot  input.stackdepth  float.min  name.dup  name.quote  int.*  name.randboundname  name.dup  exec.close  exec.close  name.pop  name.randboundname  name.randboundname  int.swap  name.randboundname  name.yankdup  float.rand  int.rot  name.flush  exec.rot  exec.close  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-82.167982,71.992360> <75.731021,73.031407> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> <-50.520365,-32.975077> 
+
+Iteration 13 
+Bool stack: 
+Int stack:  62  0  0  12  2 
+Float stack:  3.986959e+09  23.004691  1.487733e+09  1.071842e+09  3.683841e+09  1.648775e+08  1.053926e+08  4.711686e+07  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  vector.dim+  name.pop  float.rand  float.ln  vector.frombool  vector.yank  float.max  bool.pop  name.yankdup  float.=  bool.rot  bool.yankdup  0.281272  float.min  name.randboundname  vector.yank  float.sin  vector.yank  float.pop  float.pow  )  float.pow  float.max  int.-  int.*  float.rand  exec.k  vector.dim*  int.dup  int.log  (  float.pow  63  exec.yankdup  name.rot  float.abs  bool.rot  bool.yankdup  name.rot  input.stackdepth  float.min  name.dup  name.quote  int.*  name.randboundname  name.dup  exec.close  exec.close  name.pop  name.randboundname  name.randboundname  int.swap  name.randboundname  name.yankdup  float.rand  int.rot  name.flush  exec.rot  exec.close  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-82.167982,71.992360> <75.731021,73.031407> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> <-50.520365,-32.975077> 
+
+Iteration 14 
+Bool stack: 
+Int stack:  0  0  12  2 
+Float stack:  23.004691  1.487733e+09  1.071842e+09  3.683841e+09  1.648775e+08  1.053926e+08  4.711686e+07  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  name.pop  float.rand  float.ln  vector.frombool  vector.yank  float.max  bool.pop  name.yankdup  float.=  bool.rot  bool.yankdup  0.281272  float.min  name.randboundname  vector.yank  float.sin  vector.yank  float.pop  float.pow  )  float.pow  float.max  int.-  int.*  float.rand  exec.k  vector.dim*  int.dup  int.log  (  float.pow  63  exec.yankdup  name.rot  float.abs  bool.rot  bool.yankdup  name.rot  input.stackdepth  float.min  name.dup  name.quote  int.*  name.randboundname  name.dup  exec.close  exec.close  name.pop  name.randboundname  name.randboundname  int.swap  name.randboundname  name.yankdup  float.rand  int.rot  name.flush  exec.rot  exec.close  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-82.167982,3.986959e+09> <75.731021,73.031407> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> <-50.520365,-32.975077> 
+
+Iteration 15 
+Bool stack: 
+Int stack:  0  0  12  2 
+Float stack:  23.004691  1.487733e+09  1.071842e+09  3.683841e+09  1.648775e+08  1.053926e+08  4.711686e+07  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  float.rand  float.ln  vector.frombool  vector.yank  float.max  bool.pop  name.yankdup  float.=  bool.rot  bool.yankdup  0.281272  float.min  name.randboundname  vector.yank  float.sin  vector.yank  float.pop  float.pow  )  float.pow  float.max  int.-  int.*  float.rand  exec.k  vector.dim*  int.dup  int.log  (  float.pow  63  exec.yankdup  name.rot  float.abs  bool.rot  bool.yankdup  name.rot  input.stackdepth  float.min  name.dup  name.quote  int.*  name.randboundname  name.dup  exec.close  exec.close  name.pop  name.randboundname  name.randboundname  int.swap  name.randboundname  name.yankdup  float.rand  int.rot  name.flush  exec.rot  exec.close  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-82.167982,3.986959e+09> <75.731021,73.031407> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> <-50.520365,-32.975077> 
+
+Iteration 16 
+Bool stack: 
+Int stack:  0  0  12  2 
+Float stack:  0.202416  23.004691  1.487733e+09  1.071842e+09  3.683841e+09  1.648775e+08  1.053926e+08  4.711686e+07  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  float.ln  vector.frombool  vector.yank  float.max  bool.pop  name.yankdup  float.=  bool.rot  bool.yankdup  0.281272  float.min  name.randboundname  vector.yank  float.sin  vector.yank  float.pop  float.pow  )  float.pow  float.max  int.-  int.*  float.rand  exec.k  vector.dim*  int.dup  int.log  (  float.pow  63  exec.yankdup  name.rot  float.abs  bool.rot  bool.yankdup  name.rot  input.stackdepth  float.min  name.dup  name.quote  int.*  name.randboundname  name.dup  exec.close  exec.close  name.pop  name.randboundname  name.randboundname  int.swap  name.randboundname  name.yankdup  float.rand  int.rot  name.flush  exec.rot  exec.close  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-82.167982,3.986959e+09> <75.731021,73.031407> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> <-50.520365,-32.975077> 
+
+Iteration 17 
+Bool stack: 
+Int stack:  0  0  12  2 
+Float stack:  -1.597429  23.004691  1.487733e+09  1.071842e+09  3.683841e+09  1.648775e+08  1.053926e+08  4.711686e+07  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  vector.frombool  vector.yank  float.max  bool.pop  name.yankdup  float.=  bool.rot  bool.yankdup  0.281272  float.min  name.randboundname  vector.yank  float.sin  vector.yank  float.pop  float.pow  )  float.pow  float.max  int.-  int.*  float.rand  exec.k  vector.dim*  int.dup  int.log  (  float.pow  63  exec.yankdup  name.rot  float.abs  bool.rot  bool.yankdup  name.rot  input.stackdepth  float.min  name.dup  name.quote  int.*  name.randboundname  name.dup  exec.close  exec.close  name.pop  name.randboundname  name.randboundname  int.swap  name.randboundname  name.yankdup  float.rand  int.rot  name.flush  exec.rot  exec.close  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-82.167982,3.986959e+09> <75.731021,73.031407> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> <-50.520365,-32.975077> 
+
+Iteration 18 
+Bool stack: 
+Int stack:  0  0  12  2 
+Float stack:  -1.597429  23.004691  1.487733e+09  1.071842e+09  3.683841e+09  1.648775e+08  1.053926e+08  4.711686e+07  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  vector.yank  float.max  bool.pop  name.yankdup  float.=  bool.rot  bool.yankdup  0.281272  float.min  name.randboundname  vector.yank  float.sin  vector.yank  float.pop  float.pow  )  float.pow  float.max  int.-  int.*  float.rand  exec.k  vector.dim*  int.dup  int.log  (  float.pow  63  exec.yankdup  name.rot  float.abs  bool.rot  bool.yankdup  name.rot  input.stackdepth  float.min  name.dup  name.quote  int.*  name.randboundname  name.dup  exec.close  exec.close  name.pop  name.randboundname  name.randboundname  int.swap  name.randboundname  name.yankdup  float.rand  int.rot  name.flush  exec.rot  exec.close  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-82.167982,3.986959e+09> <75.731021,73.031407> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> <-50.520365,-32.975077> 
+
+Iteration 19 
+Bool stack: 
+Int stack:  0  12  2 
+Float stack:  -1.597429  23.004691  1.487733e+09  1.071842e+09  3.683841e+09  1.648775e+08  1.053926e+08  4.711686e+07  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  float.max  bool.pop  name.yankdup  float.=  bool.rot  bool.yankdup  0.281272  float.min  name.randboundname  vector.yank  float.sin  vector.yank  float.pop  float.pow  )  float.pow  float.max  int.-  int.*  float.rand  exec.k  vector.dim*  int.dup  int.log  (  float.pow  63  exec.yankdup  name.rot  float.abs  bool.rot  bool.yankdup  name.rot  input.stackdepth  float.min  name.dup  name.quote  int.*  name.randboundname  name.dup  exec.close  exec.close  name.pop  name.randboundname  name.randboundname  int.swap  name.randboundname  name.yankdup  float.rand  int.rot  name.flush  exec.rot  exec.close  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-82.167982,3.986959e+09> <75.731021,73.031407> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> <-50.520365,-32.975077> 
+
+Iteration 20 
+Bool stack: 
+Int stack:  0  12  2 
+Float stack:  23.004691  1.487733e+09  1.071842e+09  3.683841e+09  1.648775e+08  1.053926e+08  4.711686e+07  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  bool.pop  name.yankdup  float.=  bool.rot  bool.yankdup  0.281272  float.min  name.randboundname  vector.yank  float.sin  vector.yank  float.pop  float.pow  )  float.pow  float.max  int.-  int.*  float.rand  exec.k  vector.dim*  int.dup  int.log  (  float.pow  63  exec.yankdup  name.rot  float.abs  bool.rot  bool.yankdup  name.rot  input.stackdepth  float.min  name.dup  name.quote  int.*  name.randboundname  name.dup  exec.close  exec.close  name.pop  name.randboundname  name.randboundname  int.swap  name.randboundname  name.yankdup  float.rand  int.rot  name.flush  exec.rot  exec.close  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-82.167982,3.986959e+09> <75.731021,73.031407> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> <-50.520365,-32.975077> 
+
+Iteration 21 
+Bool stack: 
+Int stack:  0  12  2 
+Float stack:  23.004691  1.487733e+09  1.071842e+09  3.683841e+09  1.648775e+08  1.053926e+08  4.711686e+07  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  name.yankdup  float.=  bool.rot  bool.yankdup  0.281272  float.min  name.randboundname  vector.yank  float.sin  vector.yank  float.pop  float.pow  )  float.pow  float.max  int.-  int.*  float.rand  exec.k  vector.dim*  int.dup  int.log  (  float.pow  63  exec.yankdup  name.rot  float.abs  bool.rot  bool.yankdup  name.rot  input.stackdepth  float.min  name.dup  name.quote  int.*  name.randboundname  name.dup  exec.close  exec.close  name.pop  name.randboundname  name.randboundname  int.swap  name.randboundname  name.yankdup  float.rand  int.rot  name.flush  exec.rot  exec.close  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-82.167982,3.986959e+09> <75.731021,73.031407> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> <-50.520365,-32.975077> 
+
+Iteration 22 
+Bool stack: 
+Int stack:  0  12  2 
+Float stack:  23.004691  1.487733e+09  1.071842e+09  3.683841e+09  1.648775e+08  1.053926e+08  4.711686e+07  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  float.=  bool.rot  bool.yankdup  0.281272  float.min  name.randboundname  vector.yank  float.sin  vector.yank  float.pop  float.pow  )  float.pow  float.max  int.-  int.*  float.rand  exec.k  vector.dim*  int.dup  int.log  (  float.pow  63  exec.yankdup  name.rot  float.abs  bool.rot  bool.yankdup  name.rot  input.stackdepth  float.min  name.dup  name.quote  int.*  name.randboundname  name.dup  exec.close  exec.close  name.pop  name.randboundname  name.randboundname  int.swap  name.randboundname  name.yankdup  float.rand  int.rot  name.flush  exec.rot  exec.close  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-82.167982,3.986959e+09> <75.731021,73.031407> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> <-50.520365,-32.975077> 
+
+Iteration 23 
+Bool stack:  false 
+Int stack:  0  12  2 
+Float stack:  1.071842e+09  3.683841e+09  1.648775e+08  1.053926e+08  4.711686e+07  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  bool.rot  bool.yankdup  0.281272  float.min  name.randboundname  vector.yank  float.sin  vector.yank  float.pop  float.pow  )  float.pow  float.max  int.-  int.*  float.rand  exec.k  vector.dim*  int.dup  int.log  (  float.pow  63  exec.yankdup  name.rot  float.abs  bool.rot  bool.yankdup  name.rot  input.stackdepth  float.min  name.dup  name.quote  int.*  name.randboundname  name.dup  exec.close  exec.close  name.pop  name.randboundname  name.randboundname  int.swap  name.randboundname  name.yankdup  float.rand  int.rot  name.flush  exec.rot  exec.close  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-82.167982,3.986959e+09> <75.731021,73.031407> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> <-50.520365,-32.975077> 
+
+Iteration 24 
+Bool stack:  false 
+Int stack:  0  12  2 
+Float stack:  1.071842e+09  3.683841e+09  1.648775e+08  1.053926e+08  4.711686e+07  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  bool.yankdup  0.281272  float.min  name.randboundname  vector.yank  float.sin  vector.yank  float.pop  float.pow  )  float.pow  float.max  int.-  int.*  float.rand  exec.k  vector.dim*  int.dup  int.log  (  float.pow  63  exec.yankdup  name.rot  float.abs  bool.rot  bool.yankdup  name.rot  input.stackdepth  float.min  name.dup  name.quote  int.*  name.randboundname  name.dup  exec.close  exec.close  name.pop  name.randboundname  name.randboundname  int.swap  name.randboundname  name.yankdup  float.rand  int.rot  name.flush  exec.rot  exec.close  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-82.167982,3.986959e+09> <75.731021,73.031407> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> <-50.520365,-32.975077> 
+
+Iteration 25 
+Bool stack:  false  false 
+Int stack:  12  2 
+Float stack:  1.071842e+09  3.683841e+09  1.648775e+08  1.053926e+08  4.711686e+07  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  0.281272  float.min  name.randboundname  vector.yank  float.sin  vector.yank  float.pop  float.pow  )  float.pow  float.max  int.-  int.*  float.rand  exec.k  vector.dim*  int.dup  int.log  (  float.pow  63  exec.yankdup  name.rot  float.abs  bool.rot  bool.yankdup  name.rot  input.stackdepth  float.min  name.dup  name.quote  int.*  name.randboundname  name.dup  exec.close  exec.close  name.pop  name.randboundname  name.randboundname  int.swap  name.randboundname  name.yankdup  float.rand  int.rot  name.flush  exec.rot  exec.close  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-82.167982,3.986959e+09> <75.731021,73.031407> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> <-50.520365,-32.975077> 
+
+Iteration 26 
+Bool stack:  false  false 
+Int stack:  12  2 
+Float stack:  0.281272  1.071842e+09  3.683841e+09  1.648775e+08  1.053926e+08  4.711686e+07  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  float.min  name.randboundname  vector.yank  float.sin  vector.yank  float.pop  float.pow  )  float.pow  float.max  int.-  int.*  float.rand  exec.k  vector.dim*  int.dup  int.log  (  float.pow  63  exec.yankdup  name.rot  float.abs  bool.rot  bool.yankdup  name.rot  input.stackdepth  float.min  name.dup  name.quote  int.*  name.randboundname  name.dup  exec.close  exec.close  name.pop  name.randboundname  name.randboundname  int.swap  name.randboundname  name.yankdup  float.rand  int.rot  name.flush  exec.rot  exec.close  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-82.167982,3.986959e+09> <75.731021,73.031407> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> <-50.520365,-32.975077> 
+
+Iteration 27 
+Bool stack:  false  false 
+Int stack:  12  2 
+Float stack:  0.281272  3.683841e+09  1.648775e+08  1.053926e+08  4.711686e+07  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  name.randboundname  vector.yank  float.sin  vector.yank  float.pop  float.pow  )  float.pow  float.max  int.-  int.*  float.rand  exec.k  vector.dim*  int.dup  int.log  (  float.pow  63  exec.yankdup  name.rot  float.abs  bool.rot  bool.yankdup  name.rot  input.stackdepth  float.min  name.dup  name.quote  int.*  name.randboundname  name.dup  exec.close  exec.close  name.pop  name.randboundname  name.randboundname  int.swap  name.randboundname  name.yankdup  float.rand  int.rot  name.flush  exec.rot  exec.close  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-82.167982,3.986959e+09> <75.731021,73.031407> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> <-50.520365,-32.975077> 
+
+Iteration 28 
+Bool stack:  false  false 
+Int stack:  12  2 
+Float stack:  0.281272  3.683841e+09  1.648775e+08  1.053926e+08  4.711686e+07  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  vector.yank  float.sin  vector.yank  float.pop  float.pow  )  float.pow  float.max  int.-  int.*  float.rand  exec.k  vector.dim*  int.dup  int.log  (  float.pow  63  exec.yankdup  name.rot  float.abs  bool.rot  bool.yankdup  name.rot  input.stackdepth  float.min  name.dup  name.quote  int.*  name.randboundname  name.dup  exec.close  exec.close  name.pop  name.randboundname  name.randboundname  int.swap  name.randboundname  name.yankdup  float.rand  int.rot  name.flush  exec.rot  exec.close  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-82.167982,3.986959e+09> <75.731021,73.031407> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> <-50.520365,-32.975077> 
+
+Iteration 29 
+Bool stack:  false  false 
+Int stack:  2 
+Float stack:  0.281272  3.683841e+09  1.648775e+08  1.053926e+08  4.711686e+07  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  float.sin  vector.yank  float.pop  float.pow  )  float.pow  float.max  int.-  int.*  float.rand  exec.k  vector.dim*  int.dup  int.log  (  float.pow  63  exec.yankdup  name.rot  float.abs  bool.rot  bool.yankdup  name.rot  input.stackdepth  float.min  name.dup  name.quote  int.*  name.randboundname  name.dup  exec.close  exec.close  name.pop  name.randboundname  name.randboundname  int.swap  name.randboundname  name.yankdup  float.rand  int.rot  name.flush  exec.rot  exec.close  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-50.520365,-32.975077> <-82.167982,3.986959e+09> <75.731021,73.031407> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> 
+
+Iteration 30 
+Bool stack:  false  false 
+Int stack:  2 
+Float stack:  0.277578  3.683841e+09  1.648775e+08  1.053926e+08  4.711686e+07  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  vector.yank  float.pop  float.pow  )  float.pow  float.max  int.-  int.*  float.rand  exec.k  vector.dim*  int.dup  int.log  (  float.pow  63  exec.yankdup  name.rot  float.abs  bool.rot  bool.yankdup  name.rot  input.stackdepth  float.min  name.dup  name.quote  int.*  name.randboundname  name.dup  exec.close  exec.close  name.pop  name.randboundname  name.randboundname  int.swap  name.randboundname  name.yankdup  float.rand  int.rot  name.flush  exec.rot  exec.close  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-50.520365,-32.975077> <-82.167982,3.986959e+09> <75.731021,73.031407> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> 
+
+Iteration 31 
+Bool stack:  false  false 
+Int stack: 
+Float stack:  0.277578  3.683841e+09  1.648775e+08  1.053926e+08  4.711686e+07  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  float.pop  float.pow  )  float.pow  float.max  int.-  int.*  float.rand  exec.k  vector.dim*  int.dup  int.log  (  float.pow  63  exec.yankdup  name.rot  float.abs  bool.rot  bool.yankdup  name.rot  input.stackdepth  float.min  name.dup  name.quote  int.*  name.randboundname  name.dup  exec.close  exec.close  name.pop  name.randboundname  name.randboundname  int.swap  name.randboundname  name.yankdup  float.rand  int.rot  name.flush  exec.rot  exec.close  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <75.731021,73.031407> <-50.520365,-32.975077> <-82.167982,3.986959e+09> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> 
+
+Iteration 32 
+Bool stack:  false  false 
+Int stack: 
+Float stack:  3.683841e+09  1.648775e+08  1.053926e+08  4.711686e+07  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  float.pow  )  float.pow  float.max  int.-  int.*  float.rand  exec.k  vector.dim*  int.dup  int.log  (  float.pow  63  exec.yankdup  name.rot  float.abs  bool.rot  bool.yankdup  name.rot  input.stackdepth  float.min  name.dup  name.quote  int.*  name.randboundname  name.dup  exec.close  exec.close  name.pop  name.randboundname  name.randboundname  int.swap  name.randboundname  name.yankdup  float.rand  int.rot  name.flush  exec.rot  exec.close  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <75.731021,73.031407> <-50.520365,-32.975077> <-82.167982,3.986959e+09> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> 
+
+Iteration 33 
+Bool stack:  false  false 
+Int stack: 
+Float stack:  1.797693e+308  1.053926e+08  4.711686e+07  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  )  float.pow  float.max  int.-  int.*  float.rand  exec.k  vector.dim*  int.dup  int.log  (  float.pow  63  exec.yankdup  name.rot  float.abs  bool.rot  bool.yankdup  name.rot  input.stackdepth  float.min  name.dup  name.quote  int.*  name.randboundname  name.dup  exec.close  exec.close  name.pop  name.randboundname  name.randboundname  int.swap  name.randboundname  name.yankdup  float.rand  int.rot  name.flush  exec.rot  exec.close  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <75.731021,73.031407> <-50.520365,-32.975077> <-82.167982,3.986959e+09> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> 
+
+Iteration 34 
+Bool stack:  false  false 
+Int stack: 
+Float stack:  1.797693e+308  1.053926e+08  4.711686e+07  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  float.pow  float.max  int.-  int.*  float.rand  exec.k  vector.dim*  int.dup  int.log  (  float.pow  63  exec.yankdup  name.rot  float.abs  bool.rot  bool.yankdup  name.rot  input.stackdepth  float.min  name.dup  name.quote  int.*  name.randboundname  name.dup  exec.close  exec.close  name.pop  name.randboundname  name.randboundname  int.swap  name.randboundname  name.yankdup  float.rand  int.rot  name.flush  exec.rot  exec.close  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <75.731021,73.031407> <-50.520365,-32.975077> <-82.167982,3.986959e+09> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> 
+
+Iteration 35 
+Bool stack:  false  false 
+Int stack: 
+Float stack:  1.797693e+308  4.711686e+07  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  float.max  int.-  int.*  float.rand  exec.k  vector.dim*  int.dup  int.log  (  float.pow  63  exec.yankdup  name.rot  float.abs  bool.rot  bool.yankdup  name.rot  input.stackdepth  float.min  name.dup  name.quote  int.*  name.randboundname  name.dup  exec.close  exec.close  name.pop  name.randboundname  name.randboundname  int.swap  name.randboundname  name.yankdup  float.rand  int.rot  name.flush  exec.rot  exec.close  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <75.731021,73.031407> <-50.520365,-32.975077> <-82.167982,3.986959e+09> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> 
+
+Iteration 36 
+Bool stack:  false  false 
+Int stack: 
+Float stack:  1.797693e+308  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  int.-  int.*  float.rand  exec.k  vector.dim*  int.dup  int.log  (  float.pow  63  exec.yankdup  name.rot  float.abs  bool.rot  bool.yankdup  name.rot  input.stackdepth  float.min  name.dup  name.quote  int.*  name.randboundname  name.dup  exec.close  exec.close  name.pop  name.randboundname  name.randboundname  int.swap  name.randboundname  name.yankdup  float.rand  int.rot  name.flush  exec.rot  exec.close  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <75.731021,73.031407> <-50.520365,-32.975077> <-82.167982,3.986959e+09> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> 
+
+Iteration 37 
+Bool stack:  false  false 
+Int stack: 
+Float stack:  1.797693e+308  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  int.*  float.rand  exec.k  vector.dim*  int.dup  int.log  (  float.pow  63  exec.yankdup  name.rot  float.abs  bool.rot  bool.yankdup  name.rot  input.stackdepth  float.min  name.dup  name.quote  int.*  name.randboundname  name.dup  exec.close  exec.close  name.pop  name.randboundname  name.randboundname  int.swap  name.randboundname  name.yankdup  float.rand  int.rot  name.flush  exec.rot  exec.close  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <75.731021,73.031407> <-50.520365,-32.975077> <-82.167982,3.986959e+09> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> 
+
+Iteration 38 
+Bool stack:  false  false 
+Int stack: 
+Float stack:  1.797693e+308  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  float.rand  exec.k  vector.dim*  int.dup  int.log  (  float.pow  63  exec.yankdup  name.rot  float.abs  bool.rot  bool.yankdup  name.rot  input.stackdepth  float.min  name.dup  name.quote  int.*  name.randboundname  name.dup  exec.close  exec.close  name.pop  name.randboundname  name.randboundname  int.swap  name.randboundname  name.yankdup  float.rand  int.rot  name.flush  exec.rot  exec.close  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <75.731021,73.031407> <-50.520365,-32.975077> <-82.167982,3.986959e+09> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> 
+
+Iteration 39 
+Bool stack:  false  false 
+Int stack: 
+Float stack:  0.568466  1.797693e+308  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  exec.k  vector.dim*  int.dup  int.log  (  float.pow  63  exec.yankdup  name.rot  float.abs  bool.rot  bool.yankdup  name.rot  input.stackdepth  float.min  name.dup  name.quote  int.*  name.randboundname  name.dup  exec.close  exec.close  name.pop  name.randboundname  name.randboundname  int.swap  name.randboundname  name.yankdup  float.rand  int.rot  name.flush  exec.rot  exec.close  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <75.731021,73.031407> <-50.520365,-32.975077> <-82.167982,3.986959e+09> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> 
+
+Iteration 40 
+Bool stack:  false  false 
+Int stack: 
+Float stack:  0.568466  1.797693e+308  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  name.pop  name.randboundname  name.randboundname  int.swap  name.randboundname  name.yankdup  float.rand  int.rot  name.flush  exec.rot  exec.close  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <75.731021,73.031407> <-50.520365,-32.975077> <-82.167982,3.986959e+09> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> 
+
+Iteration 41 
+Bool stack:  false  false 
+Int stack: 
+Float stack:  0.568466  1.797693e+308  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  name.randboundname  name.randboundname  int.swap  name.randboundname  name.yankdup  float.rand  int.rot  name.flush  exec.rot  exec.close  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <75.731021,73.031407> <-50.520365,-32.975077> <-82.167982,3.986959e+09> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> 
+
+Iteration 42 
+Bool stack:  false  false 
+Int stack: 
+Float stack:  0.568466  1.797693e+308  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  name.randboundname  int.swap  name.randboundname  name.yankdup  float.rand  int.rot  name.flush  exec.rot  exec.close  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <75.731021,73.031407> <-50.520365,-32.975077> <-82.167982,3.986959e+09> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> 
+
+Iteration 43 
+Bool stack:  false  false 
+Int stack: 
+Float stack:  0.568466  1.797693e+308  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  int.swap  name.randboundname  name.yankdup  float.rand  int.rot  name.flush  exec.rot  exec.close  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <75.731021,73.031407> <-50.520365,-32.975077> <-82.167982,3.986959e+09> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> 
+
+Iteration 44 
+Bool stack:  false  false 
+Int stack: 
+Float stack:  0.568466  1.797693e+308  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  name.randboundname  name.yankdup  float.rand  int.rot  name.flush  exec.rot  exec.close  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <75.731021,73.031407> <-50.520365,-32.975077> <-82.167982,3.986959e+09> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> 
+
+Iteration 45 
+Bool stack:  false  false 
+Int stack: 
+Float stack:  0.568466  1.797693e+308  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  name.yankdup  float.rand  int.rot  name.flush  exec.rot  exec.close  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <75.731021,73.031407> <-50.520365,-32.975077> <-82.167982,3.986959e+09> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> 
+
+Iteration 46 
+Bool stack:  false  false 
+Int stack: 
+Float stack:  0.568466  1.797693e+308  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  float.rand  int.rot  name.flush  exec.rot  exec.close  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <75.731021,73.031407> <-50.520365,-32.975077> <-82.167982,3.986959e+09> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> 
+
+Iteration 47 
+Bool stack:  false  false 
+Int stack: 
+Float stack:  0.073076  0.568466  1.797693e+308  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  int.rot  name.flush  exec.rot  exec.close  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <75.731021,73.031407> <-50.520365,-32.975077> <-82.167982,3.986959e+09> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> 
+
+Iteration 48 
+Bool stack:  false  false 
+Int stack: 
+Float stack:  0.073076  0.568466  1.797693e+308  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  name.flush  exec.rot  exec.close  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <75.731021,73.031407> <-50.520365,-32.975077> <-82.167982,3.986959e+09> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> 
+
+Iteration 49 
+Bool stack:  false  false 
+Int stack: 
+Float stack:  0.073076  0.568466  1.797693e+308  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  exec.rot  exec.close  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <75.731021,73.031407> <-50.520365,-32.975077> <-82.167982,3.986959e+09> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> 
+
+Iteration 50 
+Bool stack:  false  false 
+Int stack: 
+Float stack:  0.073076  0.568466  1.797693e+308  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  exec.close  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <75.731021,73.031407> <-50.520365,-32.975077> <-82.167982,3.986959e+09> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> 
+
+Iteration 51 
+Bool stack:  false  false 
+Int stack: 
+Float stack:  0.073076  0.568466  1.797693e+308  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  name.randboundname  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <75.731021,73.031407> <-50.520365,-32.975077> <-82.167982,3.986959e+09> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> 
+
+Iteration 52 
+Bool stack:  false  false 
+Int stack: 
+Float stack:  0.073076  0.568466  1.797693e+308  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  int.yankdup  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <75.731021,73.031407> <-50.520365,-32.975077> <-82.167982,3.986959e+09> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> 
+
+Iteration 53 
+Bool stack:  false  false 
+Int stack: 
+Float stack:  0.073076  0.568466  1.797693e+308  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  int.%  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <75.731021,73.031407> <-50.520365,-32.975077> <-82.167982,3.986959e+09> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> 
+
+Iteration 54 
+Bool stack:  false  false 
+Int stack: 
+Float stack:  0.073076  0.568466  1.797693e+308  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  float.tan  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <75.731021,73.031407> <-50.520365,-32.975077> <-82.167982,3.986959e+09> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> 
+
+Iteration 55 
+Bool stack:  false  false 
+Int stack: 
+Float stack:  0.073206  0.568466  1.797693e+308  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  float.tan  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <75.731021,73.031407> <-50.520365,-32.975077> <-82.167982,3.986959e+09> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> 
+
+Iteration 56 
+Bool stack:  false  false 
+Int stack: 
+Float stack:  0.073337  0.568466  1.797693e+308  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  int.abs  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <75.731021,73.031407> <-50.520365,-32.975077> <-82.167982,3.986959e+09> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> 
+
+Iteration 57 
+Bool stack:  false  false 
+Int stack: 
+Float stack:  0.073337  0.568466  1.797693e+308  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  int.+  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <75.731021,73.031407> <-50.520365,-32.975077> <-82.167982,3.986959e+09> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> 
+
+Iteration 58 
+Bool stack:  false  false 
+Int stack: 
+Float stack:  0.073337  0.568466  1.797693e+308  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  exec.dup  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <75.731021,73.031407> <-50.520365,-32.975077> <-82.167982,3.986959e+09> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> 
+
+Iteration 59 
+Bool stack:  false  false 
+Int stack: 
+Float stack:  0.073337  0.568466  1.797693e+308  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  vector.between  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <75.731021,73.031407> <-50.520365,-32.975077> <-82.167982,3.986959e+09> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> 
+
+Iteration 60 
+Bool stack:  false  false 
+Int stack: 
+Float stack:  0.568466  1.797693e+308  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack:  vector.between 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <66.472111,65.257199> <-82.167982,3.986959e+09> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> 
+
+Iteration 61 
+Bool stack:  false  false 
+Int stack: 
+Float stack:  1.797693e+308  1.464840e+08  2.919211e+07  8.064084e+09  7.048958e+06 
+Exec stack: 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <-18.024674,2.266450e+09> <16.026106,4.537112> <21.713891,-34.052210> <-81.603318,-48.119648> <-4.078199,15.241896> <9.788008,38.981559> <30.063530,56.876782> <-9.035069,16.765635> <64.142727,-26.475961> 
+

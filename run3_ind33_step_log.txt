@@ -1,0 +1,648 @@
+Iteration 0 
+Bool stack: 
+Int stack:  0  20  2 
+Float stack:  6.553418e+05  3.076161e+10  1.406890e+09  6.071398e+09  1.048457e+10  4.183626e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  float.rand01  exec.close  exec.close  vector.between  exec.close  float.dup  bool.yankdup  31  exec.close  input.inall  bool.yank  bool.swap  exec.if  float.rot  vector.ln  int.ln  float.>  exec.swap  vector.rand  input.inallrev  input.inallrev  exec.close  float.setrandmax  exec.close  exec.rot  exec.close  float.pop  exec.rot  vector.sin  vector.swap  float.setrandmax  name.dup  float.frombool  exec.close  bool.dup  exec.close  exec.k  name.rand  bool.or  bool.shove  exec.close  vector.log  exec.shove  vector.log  exec.close  exec.close  input.inall  float.swap  bool.not  int.rand  exec.close  exec.close  name.shove  name.shove  name.quote  name.quote  name.quote  vector.fromfloat  exec.close  float.setmean  exec.close  false  float.frombool  float.setrandmax  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <41.794909,-71.778460> <-77.733303,67.643299> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 1 
+Bool stack: 
+Int stack:  0  20  2 
+Float stack:  0.337295  6.553418e+05  3.076161e+10  1.406890e+09  6.071398e+09  1.048457e+10  4.183626e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  exec.close  exec.close  vector.between  exec.close  float.dup  bool.yankdup  31  exec.close  input.inall  bool.yank  bool.swap  exec.if  float.rot  vector.ln  int.ln  float.>  exec.swap  vector.rand  input.inallrev  input.inallrev  exec.close  float.setrandmax  exec.close  exec.rot  exec.close  float.pop  exec.rot  vector.sin  vector.swap  float.setrandmax  name.dup  float.frombool  exec.close  bool.dup  exec.close  exec.k  name.rand  bool.or  bool.shove  exec.close  vector.log  exec.shove  vector.log  exec.close  exec.close  input.inall  float.swap  bool.not  int.rand  exec.close  exec.close  name.shove  name.shove  name.quote  name.quote  name.quote  vector.fromfloat  exec.close  float.setmean  exec.close  false  float.frombool  float.setrandmax  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <41.794909,-71.778460> <-77.733303,67.643299> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 2 
+Bool stack: 
+Int stack:  0  20  2 
+Float stack:  0.337295  6.553418e+05  3.076161e+10  1.406890e+09  6.071398e+09  1.048457e+10  4.183626e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  exec.close  vector.between  exec.close  float.dup  bool.yankdup  31  exec.close  input.inall  bool.yank  bool.swap  exec.if  float.rot  vector.ln  int.ln  float.>  exec.swap  vector.rand  input.inallrev  input.inallrev  exec.close  float.setrandmax  exec.close  exec.rot  exec.close  float.pop  exec.rot  vector.sin  vector.swap  float.setrandmax  name.dup  float.frombool  exec.close  bool.dup  exec.close  exec.k  name.rand  bool.or  bool.shove  exec.close  vector.log  exec.shove  vector.log  exec.close  exec.close  input.inall  float.swap  bool.not  int.rand  exec.close  exec.close  name.shove  name.shove  name.quote  name.quote  name.quote  vector.fromfloat  exec.close  float.setmean  exec.close  false  float.frombool  float.setrandmax  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <41.794909,-71.778460> <-77.733303,67.643299> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 3 
+Bool stack: 
+Int stack:  0  20  2 
+Float stack:  0.337295  6.553418e+05  3.076161e+10  1.406890e+09  6.071398e+09  1.048457e+10  4.183626e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  vector.between  exec.close  float.dup  bool.yankdup  31  exec.close  input.inall  bool.yank  bool.swap  exec.if  float.rot  vector.ln  int.ln  float.>  exec.swap  vector.rand  input.inallrev  input.inallrev  exec.close  float.setrandmax  exec.close  exec.rot  exec.close  float.pop  exec.rot  vector.sin  vector.swap  float.setrandmax  name.dup  float.frombool  exec.close  bool.dup  exec.close  exec.k  name.rand  bool.or  bool.shove  exec.close  vector.log  exec.shove  vector.log  exec.close  exec.close  input.inall  float.swap  bool.not  int.rand  exec.close  exec.close  name.shove  name.shove  name.quote  name.quote  name.quote  vector.fromfloat  exec.close  float.setmean  exec.close  false  float.frombool  float.setrandmax  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <41.794909,-71.778460> <-77.733303,67.643299> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 4 
+Bool stack: 
+Int stack:  0  20  2 
+Float stack:  6.553418e+05  3.076161e+10  1.406890e+09  6.071398e+09  1.048457e+10  4.183626e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  exec.close  float.dup  bool.yankdup  31  exec.close  input.inall  bool.yank  bool.swap  exec.if  float.rot  vector.ln  int.ln  float.>  exec.swap  vector.rand  input.inallrev  input.inallrev  exec.close  float.setrandmax  exec.close  exec.rot  exec.close  float.pop  exec.rot  vector.sin  vector.swap  float.setrandmax  name.dup  float.frombool  exec.close  bool.dup  exec.close  exec.k  name.rand  bool.or  bool.shove  exec.close  vector.log  exec.shove  vector.log  exec.close  exec.close  input.inall  float.swap  bool.not  int.rand  exec.close  exec.close  name.shove  name.shove  name.quote  name.quote  name.quote  vector.fromfloat  exec.close  float.setmean  exec.close  false  float.frombool  float.setrandmax  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 5 
+Bool stack: 
+Int stack:  0  20  2 
+Float stack:  6.553418e+05  3.076161e+10  1.406890e+09  6.071398e+09  1.048457e+10  4.183626e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  float.dup  bool.yankdup  31  exec.close  input.inall  bool.yank  bool.swap  exec.if  float.rot  vector.ln  int.ln  float.>  exec.swap  vector.rand  input.inallrev  input.inallrev  exec.close  float.setrandmax  exec.close  exec.rot  exec.close  float.pop  exec.rot  vector.sin  vector.swap  float.setrandmax  name.dup  float.frombool  exec.close  bool.dup  exec.close  exec.k  name.rand  bool.or  bool.shove  exec.close  vector.log  exec.shove  vector.log  exec.close  exec.close  input.inall  float.swap  bool.not  int.rand  exec.close  exec.close  name.shove  name.shove  name.quote  name.quote  name.quote  vector.fromfloat  exec.close  float.setmean  exec.close  false  float.frombool  float.setrandmax  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 6 
+Bool stack: 
+Int stack:  0  20  2 
+Float stack:  6.553418e+05  6.553418e+05  3.076161e+10  1.406890e+09  6.071398e+09  1.048457e+10  4.183626e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  bool.yankdup  31  exec.close  input.inall  bool.yank  bool.swap  exec.if  float.rot  vector.ln  int.ln  float.>  exec.swap  vector.rand  input.inallrev  input.inallrev  exec.close  float.setrandmax  exec.close  exec.rot  exec.close  float.pop  exec.rot  vector.sin  vector.swap  float.setrandmax  name.dup  float.frombool  exec.close  bool.dup  exec.close  exec.k  name.rand  bool.or  bool.shove  exec.close  vector.log  exec.shove  vector.log  exec.close  exec.close  input.inall  float.swap  bool.not  int.rand  exec.close  exec.close  name.shove  name.shove  name.quote  name.quote  name.quote  vector.fromfloat  exec.close  float.setmean  exec.close  false  float.frombool  float.setrandmax  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 7 
+Bool stack: 
+Int stack:  0  20  2 
+Float stack:  6.553418e+05  6.553418e+05  3.076161e+10  1.406890e+09  6.071398e+09  1.048457e+10  4.183626e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  31  exec.close  input.inall  bool.yank  bool.swap  exec.if  float.rot  vector.ln  int.ln  float.>  exec.swap  vector.rand  input.inallrev  input.inallrev  exec.close  float.setrandmax  exec.close  exec.rot  exec.close  float.pop  exec.rot  vector.sin  vector.swap  float.setrandmax  name.dup  float.frombool  exec.close  bool.dup  exec.close  exec.k  name.rand  bool.or  bool.shove  exec.close  vector.log  exec.shove  vector.log  exec.close  exec.close  input.inall  float.swap  bool.not  int.rand  exec.close  exec.close  name.shove  name.shove  name.quote  name.quote  name.quote  vector.fromfloat  exec.close  float.setmean  exec.close  false  float.frombool  float.setrandmax  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 8 
+Bool stack: 
+Int stack:  31  0  20  2 
+Float stack:  6.553418e+05  6.553418e+05  3.076161e+10  1.406890e+09  6.071398e+09  1.048457e+10  4.183626e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  exec.close  input.inall  bool.yank  bool.swap  exec.if  float.rot  vector.ln  int.ln  float.>  exec.swap  vector.rand  input.inallrev  input.inallrev  exec.close  float.setrandmax  exec.close  exec.rot  exec.close  float.pop  exec.rot  vector.sin  vector.swap  float.setrandmax  name.dup  float.frombool  exec.close  bool.dup  exec.close  exec.k  name.rand  bool.or  bool.shove  exec.close  vector.log  exec.shove  vector.log  exec.close  exec.close  input.inall  float.swap  bool.not  int.rand  exec.close  exec.close  name.shove  name.shove  name.quote  name.quote  name.quote  vector.fromfloat  exec.close  float.setmean  exec.close  false  float.frombool  float.setrandmax  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 9 
+Bool stack: 
+Int stack:  31  0  20  2 
+Float stack:  6.553418e+05  6.553418e+05  3.076161e+10  1.406890e+09  6.071398e+09  1.048457e+10  4.183626e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  input.inall  bool.yank  bool.swap  exec.if  float.rot  vector.ln  int.ln  float.>  exec.swap  vector.rand  input.inallrev  input.inallrev  exec.close  float.setrandmax  exec.close  exec.rot  exec.close  float.pop  exec.rot  vector.sin  vector.swap  float.setrandmax  name.dup  float.frombool  exec.close  bool.dup  exec.close  exec.k  name.rand  bool.or  bool.shove  exec.close  vector.log  exec.shove  vector.log  exec.close  exec.close  input.inall  float.swap  bool.not  int.rand  exec.close  exec.close  name.shove  name.shove  name.quote  name.quote  name.quote  vector.fromfloat  exec.close  float.setmean  exec.close  false  float.frombool  float.setrandmax  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: <100.000000,100.000000> <-100.000000,-100.000000> 
+Name stack: 
+Vector stack: <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 10 
+Bool stack: 
+Int stack:  31  0  20  2 
+Float stack:  6.553418e+05  6.553418e+05  3.076161e+10  1.406890e+09  6.071398e+09  1.048457e+10  4.183626e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  bool.yank  bool.swap  exec.if  float.rot  vector.ln  int.ln  float.>  exec.swap  vector.rand  input.inallrev  input.inallrev  exec.close  float.setrandmax  exec.close  exec.rot  exec.close  float.pop  exec.rot  vector.sin  vector.swap  float.setrandmax  name.dup  float.frombool  exec.close  bool.dup  exec.close  exec.k  name.rand  bool.or  bool.shove  exec.close  vector.log  exec.shove  vector.log  exec.close  exec.close  input.inall  float.swap  bool.not  int.rand  exec.close  exec.close  name.shove  name.shove  name.quote  name.quote  name.quote  vector.fromfloat  exec.close  float.setmean  exec.close  false  float.frombool  float.setrandmax  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <-100.000000,-100.000000> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 11 
+Bool stack: 
+Int stack:  31  0  20  2 
+Float stack:  6.553418e+05  6.553418e+05  3.076161e+10  1.406890e+09  6.071398e+09  1.048457e+10  4.183626e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  bool.swap  exec.if  float.rot  vector.ln  int.ln  float.>  exec.swap  vector.rand  input.inallrev  input.inallrev  exec.close  float.setrandmax  exec.close  exec.rot  exec.close  float.pop  exec.rot  vector.sin  vector.swap  float.setrandmax  name.dup  float.frombool  exec.close  bool.dup  exec.close  exec.k  name.rand  bool.or  bool.shove  exec.close  vector.log  exec.shove  vector.log  exec.close  exec.close  input.inall  float.swap  bool.not  int.rand  exec.close  exec.close  name.shove  name.shove  name.quote  name.quote  name.quote  vector.fromfloat  exec.close  float.setmean  exec.close  false  float.frombool  float.setrandmax  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <-100.000000,-100.000000> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 12 
+Bool stack: 
+Int stack:  31  0  20  2 
+Float stack:  6.553418e+05  6.553418e+05  3.076161e+10  1.406890e+09  6.071398e+09  1.048457e+10  4.183626e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  exec.if  float.rot  vector.ln  int.ln  float.>  exec.swap  vector.rand  input.inallrev  input.inallrev  exec.close  float.setrandmax  exec.close  exec.rot  exec.close  float.pop  exec.rot  vector.sin  vector.swap  float.setrandmax  name.dup  float.frombool  exec.close  bool.dup  exec.close  exec.k  name.rand  bool.or  bool.shove  exec.close  vector.log  exec.shove  vector.log  exec.close  exec.close  input.inall  float.swap  bool.not  int.rand  exec.close  exec.close  name.shove  name.shove  name.quote  name.quote  name.quote  vector.fromfloat  exec.close  float.setmean  exec.close  false  float.frombool  float.setrandmax  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <-100.000000,-100.000000> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 13 
+Bool stack: 
+Int stack:  31  0  20  2 
+Float stack:  6.553418e+05  6.553418e+05  3.076161e+10  1.406890e+09  6.071398e+09  1.048457e+10  4.183626e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  float.rot  vector.ln  int.ln  float.>  exec.swap  vector.rand  input.inallrev  input.inallrev  exec.close  float.setrandmax  exec.close  exec.rot  exec.close  float.pop  exec.rot  vector.sin  vector.swap  float.setrandmax  name.dup  float.frombool  exec.close  bool.dup  exec.close  exec.k  name.rand  bool.or  bool.shove  exec.close  vector.log  exec.shove  vector.log  exec.close  exec.close  input.inall  float.swap  bool.not  int.rand  exec.close  exec.close  name.shove  name.shove  name.quote  name.quote  name.quote  vector.fromfloat  exec.close  float.setmean  exec.close  false  float.frombool  float.setrandmax  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <-100.000000,-100.000000> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 14 
+Bool stack: 
+Int stack:  31  0  20  2 
+Float stack:  3.076161e+10  6.553418e+05  6.553418e+05  1.406890e+09  6.071398e+09  1.048457e+10  4.183626e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  vector.ln  int.ln  float.>  exec.swap  vector.rand  input.inallrev  input.inallrev  exec.close  float.setrandmax  exec.close  exec.rot  exec.close  float.pop  exec.rot  vector.sin  vector.swap  float.setrandmax  name.dup  float.frombool  exec.close  bool.dup  exec.close  exec.k  name.rand  bool.or  bool.shove  exec.close  vector.log  exec.shove  vector.log  exec.close  exec.close  input.inall  float.swap  bool.not  int.rand  exec.close  exec.close  name.shove  name.shove  name.quote  name.quote  name.quote  vector.fromfloat  exec.close  float.setmean  exec.close  false  float.frombool  float.setrandmax  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <-100.000000,-100.000000> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 15 
+Bool stack: 
+Int stack:  31  0  20  2 
+Float stack:  3.076161e+10  6.553418e+05  6.553418e+05  1.406890e+09  6.071398e+09  1.048457e+10  4.183626e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  int.ln  float.>  exec.swap  vector.rand  input.inallrev  input.inallrev  exec.close  float.setrandmax  exec.close  exec.rot  exec.close  float.pop  exec.rot  vector.sin  vector.swap  float.setrandmax  name.dup  float.frombool  exec.close  bool.dup  exec.close  exec.k  name.rand  bool.or  bool.shove  exec.close  vector.log  exec.shove  vector.log  exec.close  exec.close  input.inall  float.swap  bool.not  int.rand  exec.close  exec.close  name.shove  name.shove  name.quote  name.quote  name.quote  vector.fromfloat  exec.close  float.setmean  exec.close  false  float.frombool  float.setrandmax  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <0.000000e+00,0.000000e+00> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 16 
+Bool stack: 
+Int stack:  3  0  20  2 
+Float stack:  3.076161e+10  6.553418e+05  6.553418e+05  1.406890e+09  6.071398e+09  1.048457e+10  4.183626e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  float.>  exec.swap  vector.rand  input.inallrev  input.inallrev  exec.close  float.setrandmax  exec.close  exec.rot  exec.close  float.pop  exec.rot  vector.sin  vector.swap  float.setrandmax  name.dup  float.frombool  exec.close  bool.dup  exec.close  exec.k  name.rand  bool.or  bool.shove  exec.close  vector.log  exec.shove  vector.log  exec.close  exec.close  input.inall  float.swap  bool.not  int.rand  exec.close  exec.close  name.shove  name.shove  name.quote  name.quote  name.quote  vector.fromfloat  exec.close  float.setmean  exec.close  false  float.frombool  float.setrandmax  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <0.000000e+00,0.000000e+00> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 17 
+Bool stack:  false 
+Int stack:  3  0  20  2 
+Float stack:  6.553418e+05  1.406890e+09  6.071398e+09  1.048457e+10  4.183626e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  exec.swap  vector.rand  input.inallrev  input.inallrev  exec.close  float.setrandmax  exec.close  exec.rot  exec.close  float.pop  exec.rot  vector.sin  vector.swap  float.setrandmax  name.dup  float.frombool  exec.close  bool.dup  exec.close  exec.k  name.rand  bool.or  bool.shove  exec.close  vector.log  exec.shove  vector.log  exec.close  exec.close  input.inall  float.swap  bool.not  int.rand  exec.close  exec.close  name.shove  name.shove  name.quote  name.quote  name.quote  vector.fromfloat  exec.close  float.setmean  exec.close  false  float.frombool  float.setrandmax  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <0.000000e+00,0.000000e+00> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 18 
+Bool stack:  false 
+Int stack:  3  0  20  2 
+Float stack:  6.553418e+05  1.406890e+09  6.071398e+09  1.048457e+10  4.183626e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  float.setrandmax  vector.rand  input.inallrev  input.inallrev  exec.rot  exec.close  float.pop  exec.rot  vector.sin  vector.swap  float.setrandmax  name.dup  float.frombool  exec.close  bool.dup  exec.close  exec.k  name.rand  bool.or  bool.shove  exec.close  vector.log  exec.shove  vector.log  exec.close  exec.close  input.inall  float.swap  bool.not  int.rand  exec.close  exec.close  name.shove  name.shove  name.quote  name.quote  name.quote  vector.fromfloat  exec.close  float.setmean  exec.close  false  float.frombool  float.setrandmax  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <0.000000e+00,0.000000e+00> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 19 
+Bool stack:  false 
+Int stack:  3  0  20  2 
+Float stack:  1.406890e+09  6.071398e+09  1.048457e+10  4.183626e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  vector.rand  input.inallrev  input.inallrev  exec.rot  exec.close  float.pop  exec.rot  vector.sin  vector.swap  float.setrandmax  name.dup  float.frombool  exec.close  bool.dup  exec.close  exec.k  name.rand  bool.or  bool.shove  exec.close  vector.log  exec.shove  vector.log  exec.close  exec.close  input.inall  float.swap  bool.not  int.rand  exec.close  exec.close  name.shove  name.shove  name.quote  name.quote  name.quote  vector.fromfloat  exec.close  float.setmean  exec.close  false  float.frombool  float.setrandmax  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <0.000000e+00,0.000000e+00> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 20 
+Bool stack:  false 
+Int stack:  3  0  20  2 
+Float stack:  1.406890e+09  6.071398e+09  1.048457e+10  4.183626e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  input.inallrev  input.inallrev  exec.rot  exec.close  float.pop  exec.rot  vector.sin  vector.swap  float.setrandmax  name.dup  float.frombool  exec.close  bool.dup  exec.close  exec.k  name.rand  bool.or  bool.shove  exec.close  vector.log  exec.shove  vector.log  exec.close  exec.close  input.inall  float.swap  bool.not  int.rand  exec.close  exec.close  name.shove  name.shove  name.quote  name.quote  name.quote  vector.fromfloat  exec.close  float.setmean  exec.close  false  float.frombool  float.setrandmax  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <5.360143e+05,5.588674e+05> <0.000000e+00,0.000000e+00> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 21 
+Bool stack:  false 
+Int stack:  3  0  20  2 
+Float stack:  1.406890e+09  6.071398e+09  1.048457e+10  4.183626e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  input.inallrev  exec.rot  exec.close  float.pop  exec.rot  vector.sin  vector.swap  float.setrandmax  name.dup  float.frombool  exec.close  bool.dup  exec.close  exec.k  name.rand  bool.or  bool.shove  exec.close  vector.log  exec.shove  vector.log  exec.close  exec.close  input.inall  float.swap  bool.not  int.rand  exec.close  exec.close  name.shove  name.shove  name.quote  name.quote  name.quote  vector.fromfloat  exec.close  float.setmean  exec.close  false  float.frombool  float.setrandmax  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <5.360143e+05,5.588674e+05> <0.000000e+00,0.000000e+00> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 22 
+Bool stack:  false 
+Int stack:  3  0  20  2 
+Float stack:  1.406890e+09  6.071398e+09  1.048457e+10  4.183626e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  exec.rot  exec.close  float.pop  exec.rot  vector.sin  vector.swap  float.setrandmax  name.dup  float.frombool  exec.close  bool.dup  exec.close  exec.k  name.rand  bool.or  bool.shove  exec.close  vector.log  exec.shove  vector.log  exec.close  exec.close  input.inall  float.swap  bool.not  int.rand  exec.close  exec.close  name.shove  name.shove  name.quote  name.quote  name.quote  vector.fromfloat  exec.close  float.setmean  exec.close  false  float.frombool  float.setrandmax  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <5.360143e+05,5.588674e+05> <0.000000e+00,0.000000e+00> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 23 
+Bool stack:  false 
+Int stack:  3  0  20  2 
+Float stack:  1.406890e+09  6.071398e+09  1.048457e+10  4.183626e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  name.shove  name.shove  name.quote  name.quote  name.quote  vector.fromfloat  exec.close  float.pop  exec.rot  vector.sin  vector.swap  float.setrandmax  name.dup  float.frombool  exec.close  bool.dup  exec.close  exec.k  name.rand  bool.or  bool.shove  exec.close  vector.log  exec.shove  vector.log  exec.close  exec.close  input.inall  float.swap  bool.not  int.rand  exec.close  float.setmean  exec.close  false  float.frombool  float.setrandmax  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <5.360143e+05,5.588674e+05> <0.000000e+00,0.000000e+00> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 24 
+Bool stack:  false 
+Int stack:  3  0  20  2 
+Float stack:  1.406890e+09  6.071398e+09  1.048457e+10  4.183626e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  name.shove  name.quote  name.quote  name.quote  vector.fromfloat  exec.close  float.pop  exec.rot  vector.sin  vector.swap  float.setrandmax  name.dup  float.frombool  exec.close  bool.dup  exec.close  exec.k  name.rand  bool.or  bool.shove  exec.close  vector.log  exec.shove  vector.log  exec.close  exec.close  input.inall  float.swap  bool.not  int.rand  exec.close  float.setmean  exec.close  false  float.frombool  float.setrandmax  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <5.360143e+05,5.588674e+05> <0.000000e+00,0.000000e+00> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 25 
+Bool stack:  false 
+Int stack:  3  0  20  2 
+Float stack:  1.406890e+09  6.071398e+09  1.048457e+10  4.183626e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  name.quote  name.quote  name.quote  vector.fromfloat  exec.close  float.pop  exec.rot  vector.sin  vector.swap  float.setrandmax  name.dup  float.frombool  exec.close  bool.dup  exec.close  exec.k  name.rand  bool.or  bool.shove  exec.close  vector.log  exec.shove  vector.log  exec.close  exec.close  input.inall  float.swap  bool.not  int.rand  exec.close  float.setmean  exec.close  false  float.frombool  float.setrandmax  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <5.360143e+05,5.588674e+05> <0.000000e+00,0.000000e+00> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 26 
+Bool stack:  false 
+Int stack:  3  0  20  2 
+Float stack:  1.406890e+09  6.071398e+09  1.048457e+10  4.183626e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  name.quote  name.quote  vector.fromfloat  exec.close  float.pop  exec.rot  vector.sin  vector.swap  float.setrandmax  name.dup  float.frombool  exec.close  bool.dup  exec.close  exec.k  name.rand  bool.or  bool.shove  exec.close  vector.log  exec.shove  vector.log  exec.close  exec.close  input.inall  float.swap  bool.not  int.rand  exec.close  float.setmean  exec.close  false  float.frombool  float.setrandmax  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <5.360143e+05,5.588674e+05> <0.000000e+00,0.000000e+00> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 27 
+Bool stack:  false 
+Int stack:  3  0  20  2 
+Float stack:  1.406890e+09  6.071398e+09  1.048457e+10  4.183626e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  name.quote  vector.fromfloat  exec.close  float.pop  exec.rot  vector.sin  vector.swap  float.setrandmax  name.dup  float.frombool  exec.close  bool.dup  exec.close  exec.k  name.rand  bool.or  bool.shove  exec.close  vector.log  exec.shove  vector.log  exec.close  exec.close  input.inall  float.swap  bool.not  int.rand  exec.close  float.setmean  exec.close  false  float.frombool  float.setrandmax  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <5.360143e+05,5.588674e+05> <0.000000e+00,0.000000e+00> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 28 
+Bool stack:  false 
+Int stack:  3  0  20  2 
+Float stack:  1.406890e+09  6.071398e+09  1.048457e+10  4.183626e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  vector.fromfloat  exec.close  float.pop  exec.rot  vector.sin  vector.swap  float.setrandmax  name.dup  float.frombool  exec.close  bool.dup  exec.close  exec.k  name.rand  bool.or  bool.shove  exec.close  vector.log  exec.shove  vector.log  exec.close  exec.close  input.inall  float.swap  bool.not  int.rand  exec.close  float.setmean  exec.close  false  float.frombool  float.setrandmax  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <5.360143e+05,5.588674e+05> <0.000000e+00,0.000000e+00> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 29 
+Bool stack:  false 
+Int stack:  3  0  20  2 
+Float stack:  6.071398e+09  1.048457e+10  4.183626e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  exec.close  float.pop  exec.rot  vector.sin  vector.swap  float.setrandmax  name.dup  float.frombool  exec.close  bool.dup  exec.close  exec.k  name.rand  bool.or  bool.shove  exec.close  vector.log  exec.shove  vector.log  exec.close  exec.close  input.inall  float.swap  bool.not  int.rand  exec.close  float.setmean  exec.close  false  float.frombool  float.setrandmax  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <1.406890e+09,1.406890e+09> <5.360143e+05,5.588674e+05> <0.000000e+00,0.000000e+00> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 30 
+Bool stack:  false 
+Int stack:  3  0  20  2 
+Float stack:  6.071398e+09  1.048457e+10  4.183626e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  float.pop  exec.rot  vector.sin  vector.swap  float.setrandmax  name.dup  float.frombool  exec.close  bool.dup  exec.close  exec.k  name.rand  bool.or  bool.shove  exec.close  vector.log  exec.shove  vector.log  exec.close  exec.close  input.inall  float.swap  bool.not  int.rand  exec.close  float.setmean  exec.close  false  float.frombool  float.setrandmax  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <1.406890e+09,1.406890e+09> <5.360143e+05,5.588674e+05> <0.000000e+00,0.000000e+00> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 31 
+Bool stack:  false 
+Int stack:  3  0  20  2 
+Float stack:  1.048457e+10  4.183626e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  exec.rot  vector.sin  vector.swap  float.setrandmax  name.dup  float.frombool  exec.close  bool.dup  exec.close  exec.k  name.rand  bool.or  bool.shove  exec.close  vector.log  exec.shove  vector.log  exec.close  exec.close  input.inall  float.swap  bool.not  int.rand  exec.close  float.setmean  exec.close  false  float.frombool  float.setrandmax  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <1.406890e+09,1.406890e+09> <5.360143e+05,5.588674e+05> <0.000000e+00,0.000000e+00> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 32 
+Bool stack:  false 
+Int stack:  3  0  20  2 
+Float stack:  1.048457e+10  4.183626e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  exec.k  name.rand  bool.or  bool.shove  exec.close  vector.log  exec.shove  vector.log  exec.close  exec.close  input.inall  float.swap  bool.not  int.rand  vector.sin  vector.swap  float.setrandmax  name.dup  float.frombool  exec.close  bool.dup  float.setmean  exec.close  false  float.frombool  float.setrandmax  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <1.406890e+09,1.406890e+09> <5.360143e+05,5.588674e+05> <0.000000e+00,0.000000e+00> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 33 
+Bool stack:  false 
+Int stack:  3  0  20  2 
+Float stack:  1.048457e+10  4.183626e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  vector.log  exec.close  input.inall  float.swap  bool.not  int.rand  vector.sin  vector.swap  float.setrandmax  name.dup  float.frombool  exec.close  bool.dup  float.setmean  exec.close  false  float.frombool  float.setrandmax  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <1.406890e+09,1.406890e+09> <5.360143e+05,5.588674e+05> <0.000000e+00,0.000000e+00> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 34 
+Bool stack:  false 
+Int stack:  3  0  20  2 
+Float stack:  1.048457e+10  4.183626e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  exec.close  input.inall  float.swap  bool.not  int.rand  vector.sin  vector.swap  float.setrandmax  name.dup  float.frombool  exec.close  bool.dup  float.setmean  exec.close  false  float.frombool  float.setrandmax  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <0.626259,0.628241> <0.000000e+00,0.000000e+00> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 35 
+Bool stack:  false 
+Int stack:  3  0  20  2 
+Float stack:  1.048457e+10  4.183626e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  input.inall  float.swap  bool.not  int.rand  vector.sin  vector.swap  float.setrandmax  name.dup  float.frombool  exec.close  bool.dup  float.setmean  exec.close  false  float.frombool  float.setrandmax  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <0.626259,0.628241> <0.000000e+00,0.000000e+00> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 36 
+Bool stack:  false 
+Int stack:  3  0  20  2 
+Float stack:  1.048457e+10  4.183626e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  float.swap  bool.not  int.rand  vector.sin  vector.swap  float.setrandmax  name.dup  float.frombool  exec.close  bool.dup  float.setmean  exec.close  false  float.frombool  float.setrandmax  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <0.626259,0.628241> <0.000000e+00,0.000000e+00> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 37 
+Bool stack:  false 
+Int stack:  3  0  20  2 
+Float stack:  4.183626e+10  1.048457e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  bool.not  int.rand  vector.sin  vector.swap  float.setrandmax  name.dup  float.frombool  exec.close  bool.dup  float.setmean  exec.close  false  float.frombool  float.setrandmax  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <0.626259,0.628241> <0.000000e+00,0.000000e+00> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 38 
+Bool stack:  true 
+Int stack:  3  0  20  2 
+Float stack:  4.183626e+10  1.048457e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  int.rand  vector.sin  vector.swap  float.setrandmax  name.dup  float.frombool  exec.close  bool.dup  float.setmean  exec.close  false  float.frombool  float.setrandmax  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <0.626259,0.628241> <0.000000e+00,0.000000e+00> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 39 
+Bool stack:  true 
+Int stack:  11  3  0  20  2 
+Float stack:  4.183626e+10  1.048457e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  vector.sin  vector.swap  float.setrandmax  name.dup  float.frombool  exec.close  bool.dup  float.setmean  exec.close  false  float.frombool  float.setrandmax  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <0.626259,0.628241> <0.000000e+00,0.000000e+00> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 40 
+Bool stack:  true 
+Int stack:  11  3  0  20  2 
+Float stack:  4.183626e+10  1.048457e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  vector.swap  float.setrandmax  name.dup  float.frombool  exec.close  bool.dup  float.setmean  exec.close  false  float.frombool  float.setrandmax  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <0.586117,0.587722> <0.000000e+00,0.000000e+00> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 41 
+Bool stack:  true 
+Int stack:  11  3  0  20  2 
+Float stack:  4.183626e+10  1.048457e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  float.setrandmax  name.dup  float.frombool  exec.close  bool.dup  float.setmean  exec.close  false  float.frombool  float.setrandmax  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <0.000000e+00,0.000000e+00> <0.586117,0.587722> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 42 
+Bool stack:  true 
+Int stack:  11  3  0  20  2 
+Float stack:  1.048457e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  name.dup  float.frombool  exec.close  bool.dup  float.setmean  exec.close  false  float.frombool  float.setrandmax  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <0.000000e+00,0.000000e+00> <0.586117,0.587722> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 43 
+Bool stack:  true 
+Int stack:  11  3  0  20  2 
+Float stack:  1.048457e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  float.frombool  exec.close  bool.dup  float.setmean  exec.close  false  float.frombool  float.setrandmax  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <0.000000e+00,0.000000e+00> <0.586117,0.587722> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 44 
+Bool stack: 
+Int stack:  11  3  0  20  2 
+Float stack:  1.000000  1.048457e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  exec.close  bool.dup  float.setmean  exec.close  false  float.frombool  float.setrandmax  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <0.000000e+00,0.000000e+00> <0.586117,0.587722> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 45 
+Bool stack: 
+Int stack:  11  3  0  20  2 
+Float stack:  1.000000  1.048457e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  bool.dup  float.setmean  exec.close  false  float.frombool  float.setrandmax  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <0.000000e+00,0.000000e+00> <0.586117,0.587722> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 46 
+Bool stack: 
+Int stack:  11  3  0  20  2 
+Float stack:  1.000000  1.048457e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  float.setmean  exec.close  false  float.frombool  float.setrandmax  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <0.000000e+00,0.000000e+00> <0.586117,0.587722> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 47 
+Bool stack: 
+Int stack:  11  3  0  20  2 
+Float stack:  1.048457e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  exec.close  false  float.frombool  float.setrandmax  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <0.000000e+00,0.000000e+00> <0.586117,0.587722> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 48 
+Bool stack: 
+Int stack:  11  3  0  20  2 
+Float stack:  1.048457e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  false  float.frombool  float.setrandmax  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <0.000000e+00,0.000000e+00> <0.586117,0.587722> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 49 
+Bool stack:  false 
+Int stack:  11  3  0  20  2 
+Float stack:  1.048457e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  float.frombool  float.setrandmax  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <0.000000e+00,0.000000e+00> <0.586117,0.587722> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 50 
+Bool stack: 
+Int stack:  11  3  0  20  2 
+Float stack:  0.000000e+00  1.048457e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  float.setrandmax  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <0.000000e+00,0.000000e+00> <0.586117,0.587722> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 51 
+Bool stack: 
+Int stack:  11  3  0  20  2 
+Float stack:  1.048457e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  int.abs  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <0.000000e+00,0.000000e+00> <0.586117,0.587722> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 52 
+Bool stack: 
+Int stack:  11  3  0  20  2 
+Float stack:  1.048457e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  exec.k  exec.k  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <0.000000e+00,0.000000e+00> <0.586117,0.587722> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 53 
+Bool stack: 
+Int stack:  11  3  0  20  2 
+Float stack:  1.048457e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  )  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <0.000000e+00,0.000000e+00> <0.586117,0.587722> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 54 
+Bool stack: 
+Int stack:  11  3  0  20  2 
+Float stack:  1.048457e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  int.max  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <0.000000e+00,0.000000e+00> <0.586117,0.587722> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 55 
+Bool stack: 
+Int stack:  11  0  20  2 
+Float stack:  1.048457e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  vector.*  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <0.000000e+00,0.000000e+00> <0.586117,0.587722> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 56 
+Bool stack: 
+Int stack:  11  0  20  2 
+Float stack:  1.048457e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  bool.rot  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <0.000000e+00,0.000000e+00> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 57 
+Bool stack: 
+Int stack:  11  0  20  2 
+Float stack:  1.048457e+10  3.058726e+09  3.291203e+08  4.295257e+07  6.234670e+07  4.498881e+09  3.920788e+09  4.323268e+08  1.287689e+10  2.282233e+09  4.922738e+08  3.946846e+09  2.330733e+10  4.288898e+09  5.939581e+09 
+Exec stack:  float.flush  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <0.000000e+00,0.000000e+00> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 58 
+Bool stack: 
+Int stack:  11  0  20  2 
+Float stack: 
+Exec stack:  vector.dot  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <0.000000e+00,0.000000e+00> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 59 
+Bool stack: 
+Int stack:  11  0  20  2 
+Float stack:  0.000000e+00 
+Exec stack:  float.flush  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 60 
+Bool stack: 
+Int stack:  11  0  20  2 
+Float stack: 
+Exec stack:  exec.close  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 61 
+Bool stack: 
+Int stack:  11  0  20  2 
+Float stack: 
+Exec stack:  int.-  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 62 
+Bool stack: 
+Int stack:  -11  20  2 
+Float stack: 
+Exec stack:  vector.yankdup  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 63 
+Bool stack: 
+Int stack:  20  2 
+Float stack: 
+Exec stack:  float.cos  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <100.000000,100.000000> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 64 
+Bool stack: 
+Int stack:  20  2 
+Float stack: 
+Exec stack:  (  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <100.000000,100.000000> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 65 
+Bool stack: 
+Int stack:  20  2 
+Float stack: 
+Exec stack:  exec.close  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <100.000000,100.000000> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 66 
+Bool stack: 
+Int stack:  20  2 
+Float stack: 
+Exec stack:  int.rand  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <100.000000,100.000000> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 67 
+Bool stack: 
+Int stack:  48  20  2 
+Float stack: 
+Exec stack:  float.=  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <100.000000,100.000000> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 68 
+Bool stack: 
+Int stack:  48  20  2 
+Float stack: 
+Exec stack:  float.normrand  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <100.000000,100.000000> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 69 
+Bool stack: 
+Int stack:  48  20  2 
+Float stack:  1.910002 
+Exec stack:  float.swap  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <100.000000,100.000000> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 70 
+Bool stack: 
+Int stack:  48  20  2 
+Float stack:  1.910002 
+Exec stack:  vector.dim+ 
+Input stack: 
+Name stack: 
+Vector stack: <100.000000,100.000000> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
+Iteration 71 
+Bool stack: 
+Int stack:  20  2 
+Float stack: 
+Exec stack: 
+Input stack: 
+Name stack: 
+Vector stack: <100.000000,101.910002> <100.000000,100.000000> <1.478632,-24.752188> <10.337374,-49.866422> <-13.209143,-11.940625> <-48.876436,-21.906527> <-92.782607,97.978017> <97.794754,-85.620130> <84.682887,28.983930> <87.886156,12.648205> <81.964607,6.000321> <-43.637163,-78.659684> <42.080758,45.047930> <79.422795,25.755016> <-43.007038,7.460470> <93.778307,97.352204> <23.499462,-57.730091> <-50.096111,-96.396074> <-81.011243,20.903263> <8.433464,-1.449443> <43.776108,74.177179> 
+
